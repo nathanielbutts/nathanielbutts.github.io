@@ -1,4 +1,4 @@
-# WCKY ARES Net Notes
+# WCKY ARES - Net Notes
 
 ## 20260528@1930
 ### Basic Info
