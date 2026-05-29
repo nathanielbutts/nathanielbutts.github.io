@@ -1,4 +1,4 @@
-# Kentucky District 3 Warren County ARES
+# WCKY ARES - Kentucky District 3 Warren County
 
 ## Reports
 
