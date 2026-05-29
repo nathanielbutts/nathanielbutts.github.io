@@ -31,3 +31,7 @@ To participate in ARES, you must be hold a current, valid, amateur radio license
 [Net reports](./reports/nets.md)
 
 ## Training
+
+| Class | Basic | Intermediate | Advanced |
+|-------|:-----:|:------------:|:--------:|
+|[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en) | R | R | R |
