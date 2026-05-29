@@ -26,11 +26,20 @@ Emergency Coordinator
 
 To participate in ARES, you must be hold a current, valid, amateur radio license of any class.  If you would like to be a part of the WCKY ARES group, please complete the [ARRL ARES Registration Form](https://www.arrl.org/files/file/fsd98(2).pdf).  You can download this pdf and fill it in electronically or print and fill in by hand.  You can email the document to (nathanielbutts@gmail.com) or you can bring it with you to the next KCARC club meeting.  I will also have blank copies available at the club meetings if you wish to fill it out then.
 
+## Members
+
+| Callsign | Name | License | Grid |
+|----------|------|---------|------|
+| KQ4TIV   | Nathan Butts | Extra | EM66tu |
+| KY4JPS   | Pat Stewart | Extra | EM67td |
+
 ## Reports
 
 [Net reports](./reports/nets.md)
 
 ## Training
+
+You will need a Taskbook to track your training progress.  If you do not have one, please download it here <insert link>.  
 
 | Class | Basic | Intermediate | Advanced |
 |-------|:-----:|:------------:|:--------:|
