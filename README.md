@@ -80,10 +80,10 @@ The Taskbook also lists skills that are to be signed off by the EC that are requ
 | Operate VHF Digital messaging station peer-to-peer |  |  | R |
 | Operate HF Digital messaging station peer-to-peer |  |  | R |
 | Operate unit specific Digital VHF or HF station |  | O | R |
-| Build a simple dipole antenna | E | E |  |
-| Build Powerpole® type adapter cable | E | E |  |
-| Solder PL259 connector to coax | E | E |  |
-| Assemble a 24-hour Deployment Kit |  | E |  |
+| Build a simple dipole antenna | E | E | R |
+| Build Powerpole® type adapter cable | E | E | R |
+| Solder PL259 connector to coax | E | E | R |
+| Assemble a 24-hour Deployment Kit |  | E | R |
 | Present a training session |  |  | R |
 | Hold/held leadership position in a group |  |  | R |
 | Hold General class or higher |  |  | O |
