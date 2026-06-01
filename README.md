@@ -21,6 +21,8 @@ Emergency Coordinator
  - [FEMA](https://www.fema.gov/)
  - [FCC Amateur Radio Services](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service)
  - [Kentucky Colonels Amateur Radio Club](https://ky4bg.com/)
+ - [ARRL NTS Forms](https://www.arrl.org/public-service-field-services-forms)
+ - [ARRL NTS Net Directory](https://www.arrl.org/arrl-net-directory)
 
 ## Registration
 
@@ -43,14 +45,15 @@ You will need a Taskbook to track your training progress.  If you do not have on
 
 | Class | Basic | Intermediate | Advanced |
 |-------|:-----:|:------------:|:--------:|
-|[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en) | R | R | R |
-|[IS700]()| R | R | |
-|[IS200]()| E | R | |
-|[IS800]()| E | R | |
-|[IS802]()|   | E | |
-|[SKYWARN Spotter Basic]()| O | | |
-|[Basic EmComm]()| R | R | R |
-|[Intermediate EmComm]() |  | R | |
+|[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en)| R | R | R |
+|[IS700](https://training.fema.gov/is/courseoverview.aspx?code=IS-700.b&lang=en)| R | R | |
+|[IS200](https://training.fema.gov/is/courseoverview.aspx?code=IS-200.c&lang=en)| E | R | |
+|[IS800](https://training.fema.gov/is/courseoverview.aspx?code=IS-800.d&lang=en)| E | R | |
+|[IS802](https://training.fema.gov/is/courseoverview.aspx?code=IS-802.a&lang=en)|   | E | |
+|[SKYWARN Spotter Basic](https://www.weather.gov/lmk/skywarn)| O | | |
+|[Basic EmComm](https://learn.arrl.org/courses/67044)*| R | R | R |
+|[Intermediate EmComm](https://learn.arrl.org/courses/68230) |  | R | |
+* = May need ARRL membership
 
 ## Participation
 
