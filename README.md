@@ -47,10 +47,10 @@ You will need a Taskbook to track your training progress.  If you do not have on
 | Class | Basic | Intermediate | Advanced |
 |-------|:-----:|:------------:|:--------:|
 |[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en)| R | R | R |
-|[IS700](https://training.fema.gov/is/courseoverview.aspx?code=IS-700.b&lang=en)| R | R | |
-|[IS200](https://training.fema.gov/is/courseoverview.aspx?code=IS-200.c&lang=en)| E | R | |
-|[IS800](https://training.fema.gov/is/courseoverview.aspx?code=IS-800.d&lang=en)| E | R | |
-|[IS802](https://training.fema.gov/is/courseoverview.aspx?code=IS-802.a&lang=en)|   | E | |
+|[IS700](https://training.fema.gov/is/courseoverview.aspx?code=IS-700.b&lang=en)| R | R | R |
+|[IS200](https://training.fema.gov/is/courseoverview.aspx?code=IS-200.c&lang=en)| E | R | R |
+|[IS800](https://training.fema.gov/is/courseoverview.aspx?code=IS-800.d&lang=en)| E | R | R |
+|[IS802](https://training.fema.gov/is/courseoverview.aspx?code=IS-802.a&lang=en)|   | E | R |
 |[IS120 An Introduction to Exercises](https://training.fema.gov/IS/courseOverview.aspx?code=IS-120.c&lang=en)|   |  | R |
 |[IS230 Fundamentals of Emergency Management](https://training.fema.gov/IS/courseOverview.aspx?code=IS-230.e&lang=en)|   |  | R |
 |[IS235 Emergency Planning](https://training.fema.gov/IS/courseOverview.aspx?code=IS-235.c&lang=en)|   |  | R |
@@ -70,7 +70,7 @@ You will need a Taskbook to track your training progress.  If you do not have on
 |[ICS-300 Incident Command System for Expanding Incidents](https://www.firstrespondertraining.gov/frts/npccatalog?id=2092)|   |  | E |
 |[ICS-400 Advanced Incident Command System](https://www.firstrespondertraining.gov/frts/npccatalog?id=2116)|   |  | E |
 |[COML Communications Unit Leader](https://www.firstrespondertraining.gov/frts/npccatalog?id=2214)|   |  | O |
-|[COMT Communications Unit Technician]?()|   |  | O |
+|COMT Communications Unit Technician|  |  | O |
 * = May need ARRL membership
 
 ## Participation
