@@ -44,3 +44,50 @@ You will need a Taskbook to track your training progress.  If you do not have on
 | Class | Basic | Intermediate | Advanced |
 |-------|:-----:|:------------:|:--------:|
 |[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en) | R | R | R |
+|[IS700]()| R | R | |
+|[IS200]()| E | R | |
+|[IS800]()| E | R | |
+|[IS802]()|   | E | |
+|[SKYWARN Spotter Basic]()| O | | |
+|[Basic EmComm]()| R | R | R |
+|[Intermediate EmComm]() |  | R | |
+
+## Participation
+
+The Taskbook also lists participations that are required, encouraged, or optional.  
+
+| Item | Basic | Intermediate | Advanced |
+|-------|:-----:|:------------:|:--------:|
+| Obtain task book | R | R | R |
+| Join an ARES group | R | R | R |
+| Net Participation (once/quarter) |  | R | R |
+| Public Service Event Participation |  | E | R |
+| Simulated Emergency Test (Annual) |  | O | R |
+| Serve as net control |  | O | R |
+
+
+## Proficiency/Skill
+
+The Taskbook also lists skills that are to be signed off by the EC that are required, encouraged, or optional.  
+
+| Item | Basic | Intermediate | Advanced |
+|-------|:-----:|:------------:|:--------:|
+| Obtain tech license or higher | R | R | R |
+| Program tone into HT |  | R | R |
+| Program freq & Offset into radio |  | R | R |
+| Write and send an ICS-213 Message |  | R | R* |
+| Operate VHF Digital messaging station  |  | O | R |
+| Operate VHF Digital messaging station peer-to-peer |  |  | R |
+| Operate HF Digital messaging station peer-to-peer |  |  | R |
+| Operate unit specific Digital VHF or HF station |  | O | R |
+| Build a simple dipole antenna | E | E |  |
+| Build Powerpole® type adapter cable | E | E |  |
+| Solder PL259 connector to coax | E | E |  |
+| Assemble a 24-hour Deployment Kit |  | E |  |
+| Present a training session |  |  | R |
+| Hold/held leadership position in a group |  |  | R |
+| Hold General class or higher |  |  | O |
+| Participate in PIO activities |  |  | R |
+| EC-001 Course instructor/mentor |  |  | O |
+| Demonstrate cross band repeater on mobile UHF->VHR |  |  | O |
+* = Proficient
