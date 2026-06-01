@@ -62,16 +62,15 @@ You will need a Taskbook to track your training progress.  If you do not have on
 |[IS2200 Basic Emergency Operations Center Functions](https://training.fema.gov/IS/courseOverview.aspx?code=IS-2200&lang=en)|   |  | R |
 |[SKYWARN Spotter Basic](https://www.weather.gov/lmk/skywarn)| O | E | R |
 |[SKYWARN Advanced Training](https://www.weather.gov/lmk/skywarn)|   |  | O |
-|[Basic EmComm*](https://learn.arrl.org/courses/67044)| R | R | R |
-|[Intermediate EmComm*](https://learn.arrl.org/courses/68230)|  | R | R |
-|Advanced EmComm* - On Hold|   |  | R |
+|[Basic EmComm](https://learn.arrl.org/courses/67044)| R | R | R |
+|[Intermediate EmComm](https://learn.arrl.org/courses/68230)|  | R | R |
+|Advanced EmComm - On Hold|   |  | R |
 |[PR-101 Public Information Officer Training](https://learn.arrl.org/account?pathPage=%2Farrl%2Fcourses%2F27055)|   |  | O |
 |AUXCOM?|   |  | E |
 |[ICS-300 Incident Command System for Expanding Incidents](https://www.firstrespondertraining.gov/frts/npccatalog?id=2092)|   |  | E |
 |[ICS-400 Advanced Incident Command System](https://www.firstrespondertraining.gov/frts/npccatalog?id=2116)|   |  | E |
 |[COML Communications Unit Leader](https://www.firstrespondertraining.gov/frts/npccatalog?id=2214)|   |  | O |
 |COMT Communications Unit Technician|  |  | O |
-* = May need ARRL membership
 
 ## Participation
 
@@ -96,7 +95,7 @@ The Taskbook also lists skills that are to be signed off by the EC that are requ
 | Obtain tech license or higher | R | R | R |
 | Program tone into HT |  | R | R |
 | Program freq & Offset into radio |  | R | R |
-| Write and send an ICS-213 Message |  | R | R* |
+| Write and send an ICS-213 Message |  | R | R |
 | Operate VHF Digital messaging station  |  | O | R |
 | Operate VHF Digital messaging station peer-to-peer |  |  | R |
 | Operate HF Digital messaging station peer-to-peer |  |  | R |
@@ -111,4 +110,3 @@ The Taskbook also lists skills that are to be signed off by the EC that are requ
 | Participate in PIO activities |  |  | R |
 | EC-001 Course instructor/mentor |  |  | O |
 | Demonstrate cross band repeater on mobile UHF->VHR |  |  | O |
-* = Proficient
