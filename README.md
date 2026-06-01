@@ -62,11 +62,11 @@ You will need a Taskbook to track your training progress.  If you do not have on
 |[IS2200 Basic Emergency Operations Center Functions](https://training.fema.gov/IS/courseOverview.aspx?code=IS-2200&lang=en)|   |  | R |
 |[SKYWARN Spotter Basic](https://www.weather.gov/lmk/skywarn)| O | E | R |
 |[SKYWARN Advanced Training](https://www.weather.gov/lmk/skywarn)|   |  | O |
-|[Basic EmComm](https://learn.arrl.org/courses/67044)*| R | R | R |
-|[Intermediate EmComm](https://learn.arrl.org/courses/68230)*|  | R | R |
-|[Advanced EmComm - On Hold]()*|   |  | R |
+|[Basic EmComm*](https://learn.arrl.org/courses/67044)| R | R | R |
+|[Intermediate EmComm*](https://learn.arrl.org/courses/68230)|  | R | R |
+|Advanced EmComm* - On Hold|   |  | R |
 |[PR-101 Public Information Officer Training](https://learn.arrl.org/account?pathPage=%2Farrl%2Fcourses%2F27055)|   |  | O |
-|[AUXCOM?]()|   |  | E |
+|AUXCOM?|   |  | E |
 |[ICS-300 Incident Command System for Expanding Incidents](https://www.firstrespondertraining.gov/frts/npccatalog?id=2092)|   |  | E |
 |[ICS-400 Advanced Incident Command System](https://www.firstrespondertraining.gov/frts/npccatalog?id=2116)|   |  | E |
 |[COML Communications Unit Leader](https://www.firstrespondertraining.gov/frts/npccatalog?id=2214)|   |  | O |
