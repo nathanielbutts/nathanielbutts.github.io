@@ -39,6 +39,7 @@ To participate in ARES, you must be hold a current, valid, amateur radio license
 ## Reports
 
 [Net reports](./documents/reports/nets.md)
+
 [Form 2 Submitted to Section Emergency Coordinator](./documents/reports/)
 
 ## Training
