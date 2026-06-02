@@ -19,6 +19,7 @@ Emergency Coordinator
  - [ARRL ARES Homepage](https://www.arrl.org/ares)
  - [Kentucky ARES](https://www.kyares.org/)
  - [FEMA](https://www.fema.gov/)
+ - [Kentucky Hams Discord Server](https://discord.gg/6NVR6rCn2D)
  - [FCC Amateur Radio Services](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service)
  - [Kentucky Colonels Amateur Radio Club](https://ky4bg.com/)
  - [ARRL NTS Forms](https://www.arrl.org/public-service-field-services-forms)
