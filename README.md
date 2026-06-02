@@ -42,7 +42,7 @@ To participate in ARES, you must be hold a current, valid, amateur radio license
 
 ## Training
 
-You will need a Taskbook to track your training progress.  If you do not have one, please download it here <insert link>.  
+You will need a Taskbook to track your training progress.  If you do not have one, [click here to download it](https://www.arrl.org/files/file/ARES%20Taskbook%20July%202024%20(improved).pdf). 
 
 | Class | Basic | Intermediate | Advanced |
 |-------|:-----:|:------------:|:--------:|
