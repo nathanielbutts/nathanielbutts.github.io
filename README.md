@@ -12,7 +12,7 @@ ARES is the amateur radio emergency service which was created by the ARRL in 193
 
 Emergency Coordinator 
  - Nathan Butts
- - email: (nathanielbutts@gmail.com)
+ - email: [nathanielbutts@gmail.com](nathanielbutts@gmail.com)
  - mobile: 270.991.4641
 
 ## Important Links
