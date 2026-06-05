@@ -1,6 +1,6 @@
 # WCKY ARES - Net Notes
 
-## 20260528@1930 Net 1
+## Net 1: 20260528@1930
 ### Basic Info
  * Freq = 147.615
  * Start time = 1930
