@@ -51,10 +51,10 @@ You will need a Taskbook to track your training progress.  If you do not have on
 
 | Class | Video | Basic | Intermediate | Advanced |
 |-------|:-----:|:-----:|:------------:|:--------:|
-|[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en)| [Link](https://www.youtube.com/watch?v=DJ8l6jByOu0&list=PLAj84mM73h2eX3odaxUCp1NQlqFEBqOuD&index=6) | R | R | R |
-|[IS700](https://training.fema.gov/is/courseoverview.aspx?code=IS-700.b&lang=en)| Link | R | R | R |
-|[IS200](https://training.fema.gov/is/courseoverview.aspx?code=IS-200.c&lang=en)| Link | E | R | R |
-|[IS800](https://training.fema.gov/is/courseoverview.aspx?code=IS-800.d&lang=en)| Link | E | R | R |
+|[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en)| [Link](https://www.youtube.com/watch?v=DJ8l6jByOu0&list=PLAj84mM73h2cfQQCj678g9SJ3GUpsgPBe) | R | R | R |
+|[IS700](https://training.fema.gov/is/courseoverview.aspx?code=IS-700.b&lang=en)| [Link](https://www.youtube.com/watch?v=JNeXSGB8iN0&list=PLAj84mM73h2fyvHR1h1HTszv74DitunVM) | R | R | R |
+|[IS200](https://training.fema.gov/is/courseoverview.aspx?code=IS-200.c&lang=en)| [Link](https://www.youtube.com/watch?v=Hkuknl-FfQ0&list=PLAj84mM73h2fmTsjZp3iIMTHttxx1fP36) | E | R | R |
+|[IS800](https://training.fema.gov/is/courseoverview.aspx?code=IS-800.d&lang=en)| [Link](https://www.youtube.com/watch?v=JZR9Cw-rHLs) | E | R | R |
 |[IS802](https://training.fema.gov/is/courseoverview.aspx?code=IS-802.a&lang=en)|  Link |  | E | R |
 |[IS120 An Introduction to Exercises](https://training.fema.gov/IS/courseOverview.aspx?code=IS-120.c&lang=en)|  Link |  |  | R |
 |[IS230 Fundamentals of Emergency Management](https://training.fema.gov/IS/courseOverview.aspx?code=IS-230.e&lang=en)| Link |   |  | R |
