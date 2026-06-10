@@ -51,7 +51,7 @@ You will need a Taskbook to track your training progress.  If you do not have on
 
 | Class | Video | Basic | Intermediate | Advanced |
 |-------|:-----:|:-----:|:------------:|:--------:|
-|[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en)| Link | R | R | R |
+|[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en)| [Link](https://www.youtube.com/watch?v=DJ8l6jByOu0&list=PLAj84mM73h2eX3odaxUCp1NQlqFEBqOuD&index=6) | R | R | R |
 |[IS700](https://training.fema.gov/is/courseoverview.aspx?code=IS-700.b&lang=en)| Link | R | R | R |
 |[IS200](https://training.fema.gov/is/courseoverview.aspx?code=IS-200.c&lang=en)| Link | E | R | R |
 |[IS800](https://training.fema.gov/is/courseoverview.aspx?code=IS-800.d&lang=en)| Link | E | R | R |
