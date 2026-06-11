@@ -38,6 +38,9 @@ To participate in ARES, you must be hold a current, valid, amateur radio license
 
 ## Items of interest
  - [YouTube - ARES Bookcamp New England](https://www.youtube.com/watch?v=T8moBMuhe-A&t=1933s)
+ - [YouTube - Tactical Voice Messaging NE ARES](https://www.youtube.com/watch?v=iRxE2IU9Gbo)
+ - [YouTube - Situational Aweness and Ground Truth](https://www.youtube.com/watch?v=WrbHL8cvQ5g)
+ - [YouTube - Messages and Forms Handling](https://www.youtube.com/watch?v=27eq0ULBFiw)
 
 ## Reports
 
