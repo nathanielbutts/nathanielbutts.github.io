@@ -37,7 +37,7 @@ To participate in ARES, you must be hold a current, valid, amateur radio license
 | KY4JPS   | Pat Stewart | Extra | EM67td |
 
 ## Items of interest
- - [https://www.youtube.com/watch?v=T8moBMuhe-A&t=1933s](https://www.youtube.com/watch?v=T8moBMuhe-A&t=1933s)
+ - [YouTube - ARES Bookcamp New England](https://www.youtube.com/watch?v=T8moBMuhe-A&t=1933s)
 
 ## Reports
 
