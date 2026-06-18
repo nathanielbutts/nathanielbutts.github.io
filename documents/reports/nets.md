@@ -37,7 +37,7 @@ KY4JPS - where to apply?
 * KQ4TIV
 
 ### Notes
- * Announced digital presence [https://nathanielbutts.github.io](nathanielbutts.github.io)
+ * Announced digital presence [nathanielbutts.github.io](https://nathanielbutts.github.io)
  * Asked for suggestions for orgs and people to contact to offer services to
  * Good contact would be Bill Rector from Warren County Fire
  * Next net encouraged to do on mobile/ht operation to simulate ARES conditions
