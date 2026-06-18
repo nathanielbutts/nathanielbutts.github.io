@@ -41,3 +41,21 @@ KY4JPS - where to apply?
  * Asked for suggestions for orgs and people to contact to offer services to
  * Good contact would be Bill Rector from Warren County Fire
  * Next net encouraged to do on mobile/ht operation to simulate ARES conditions
+
+## Net 3: 20260611@1930
+### Basic Info
+  * Freq = 147.615
+  * Start time = 1930
+  * End time = 1943
+  * Total Checkins = 5
+
+### Checkins
+  * K4WKU/P
+  * KR4LYL/P
+  * KD9GRD
+  * KG4BMH
+  * KQ4TIV/P
+
+### Notes
+  * Links to videos for IS-100, 200, 700, and 800 training are posted to [https://nathanielbutts.github.io](WCKY ARES Page)
+
