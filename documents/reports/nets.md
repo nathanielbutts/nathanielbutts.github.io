@@ -59,3 +59,51 @@ KY4JPS - where to apply?
 ### Notes
   * Links to videos for IS-100, 200, 700, and 800 training are posted to [WCKY ARES](https://nathanielbutts.github.io)
 
+## Net 4: 20260618@1930
+### Basic Info
+  * Freq = 147.615
+  * Start time = 1930
+  * End time = 
+  * Total Checkins = 
+
+### Checkins
+  *
+
+## Net 5: 20260625@1930
+### Basic Info
+  * Freq = 147.615
+  * Start time = 1930
+  * End time = 1943
+  * Total Checkins = 6
+
+### Checkins
+  * K4WKU
+  * KY4JPS
+  * KI4HEJ
+  * K9CHS
+  * KR4BZJ
+  * KN4WLM
+
+## Net 6: 20260702@1930
+### Basic Info
+  * Freq = 147.615
+  * Start time = 1930
+  * End time = 
+  * Total Checkins = 
+
+### Checkins
+  * KQ4TIV
+  * K4WKU
+  * K9CHS
+
+## Net 7: 20260709@1930
+### Basic Info
+  * Freq = 147.615
+  * Start time = 1930
+  * End time =     
+  * Total Checkins =  
+
+### Checkins
+
+
+
