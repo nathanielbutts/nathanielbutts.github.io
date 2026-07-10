@@ -88,22 +88,32 @@ KY4JPS - where to apply?
 ### Basic Info
   * Freq = 147.615
   * Start time = 1930
-  * End time = 
-  * Total Checkins = 
+  * End time = 1948
+  * Total Checkins = 8
 
 ### Checkins
   * KQ4TIV
   * K4WKU
   * K9CHS
+  * KN4BIY
+  * W5FU
+  * KN4WLM 
+  * KK4SSV
+  * WJ4T
 
 ## Net 7: 20260709@1930
 ### Basic Info
   * Freq = 147.615
   * Start time = 1930
-  * End time =     
-  * Total Checkins =  
+  * End time = 1950
+  * Total Checkins = 7 
 
 ### Checkins
-
-
-
+  * K4WKU/P
+  * K9CHS/B
+  * KI4HEJ
+  * KD9GRD 
+  * W5FU 
+  * KN4WLM
+  * K1RTIV
+hospital net results
