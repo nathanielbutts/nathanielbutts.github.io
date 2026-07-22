@@ -66,6 +66,8 @@ To participate in ARES, you must be hold a current, valid, amateur radio license
 
 You will need a Taskbook to track your training progress.  If you do not have one, [click here to download it](https://www.arrl.org/files/file/ARES%20Taskbook%20July%202024%20(improved).pdf). 
 
+Performing to the highest standard and in a professional manner is the goal of the organization when activated.  This training is essential for knowing how to work with the differing served agencies, how to follow chain-of-command, and how to work as a cohesive unit.
+
 | Class | Video | Basic | Intermediate | Advanced |
 |-------|:-----:|:-----:|:------------:|:--------:|
 |[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en)| [Link](https://www.youtube.com/watch?v=DJ8l6jByOu0&list=PLAj84mM73h2cfQQCj678g9SJ3GUpsgPBe) | R | R | R |
@@ -96,7 +98,7 @@ You will need a Taskbook to track your training progress.  If you do not have on
 
 ## Participation
 
-The Taskbook also lists participations that are required, encouraged, or optional.  
+The Taskbook also lists participations that are required, encouraged, or optional.  Participating in these items will allow you to practice the skills necessary if we are activated.
 
 | Item | Basic | Intermediate | Advanced |
 |-------|:-----:|:------------:|:--------:|
@@ -110,7 +112,7 @@ The Taskbook also lists participations that are required, encouraged, or optiona
 
 ## Proficiency/Skill
 
-The Taskbook also lists skills that are to be signed off by the EC that are required, encouraged, or optional.  
+Being self-sufficient is a hallmark of the Amateur Radio Operator.  The Taskbook also lists skills that are to be signed off by the EC that are required, encouraged, or optional.  These skills are necessary or potentially very useful to perform to the highest ability.  Knowing how to do these items can assist in the field when you need to setup for deployment, problem solve when things go wrong, or to assist the Served Agencies should the need arise.  
 
 | Item | Basic | Intermediate | Advanced |
 |-------|:-----:|:------------:|:--------:|
