@@ -25,7 +25,7 @@ We as members of The Kentucky District 3 Warren County ARES strive to be an effe
   ### Contacts
 
   | Title | Callsign | Name         | email                    | Phone Number  |
-  |-------|----------|--------------|--------------------------|---------------|
+  |+-----+|+---------|+-------------|+-------------------------|+--------------|
   | EC    | KQ4TIV   | Nathan Butts | nathanielbutts@gmail.com | (270)991-4641 |
 
   ### Frequencies
