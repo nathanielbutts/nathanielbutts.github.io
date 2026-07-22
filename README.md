@@ -15,9 +15,9 @@ ARES is the amateur radio emergency service which was created by the ARRL in 193
  - [Members](#members)
  - [Items of Interest](#items-of-interest)
  - [Reports](#reports)
- - [Training](training)
+ - [Training](#training)
  - [Participation](#participation)
- - [Proficiency/Skill](#Proficiency/skill)
+ - [Proficiency/Skill](#proficiency/skill)
 
 ## Contacts
 
