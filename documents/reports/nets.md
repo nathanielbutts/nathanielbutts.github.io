@@ -64,7 +64,7 @@ KY4JPS - where to apply?
   * Freq = 147.615
   * Start time = 1930
   * End time = 
-  * Total Checkins = 
+  * Total Checkins = 6
 
 ### Checkins
   *
@@ -117,3 +117,18 @@ KY4JPS - where to apply?
   * KN4WLM
   * K1RTIV
 hospital net results
+
+## Net 8: 20260716@1930
+### Basic Info
+  * Freq = 147.615
+  * Start Time = 1930
+  * End time = 1946
+  * Total checkins = 7
+
+### Checkins
+  * W5FU I/O
+  * K9CHS I/O
+  * KY4JPS M-BG
+  * KD9GRD MIKE
+  * K4WKU
+  * KI4HEJ
