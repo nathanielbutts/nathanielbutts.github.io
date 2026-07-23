@@ -26,9 +26,9 @@ The purpose of this document is to detail the procedures and technologies employ
 
   ### Contacts
 
-  | Title | Callsign | Name         | email                    | Phone Number  |
-  |+-----+|+---------|+-------------|+-------------------------|+--------------|
-  | EC    | KQ4TIV   | Nathan Butts | nathanielbutts@gmail.com | (270)991-4641 |
+| Title | Callsign | Name         | email                    | Phone Number  |
+|+-----+|+---------|+-------------|+-------------------------|+--------------|
+| EC    | KQ4TIV   | Nathan Butts | nathanielbutts@gmail.com | (270)991-4641 |
 
   ### Frequencies
 
