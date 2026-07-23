@@ -2,7 +2,7 @@
 
 ## Information
 
-This is the web presence of the WCKY ARES group.  This group belongs to Kentucky District 3, and is based in Warren County.
+This is the web presence of the WCKY ARES group.  This group belongs to Kentucky District 3, and is based in Warren County.  WCKY ARES members are licensed US Radio amateurs who have volunteered their capabilities, equipment, and time with the Kentucky ARES.  Amateur radio operators are prohibited from accepting compensation for services provided in accordance with FCC Regulation Part 97.113.  Our goal is to provide non-business backup communication services during recovery from natural or man-made disasters when regular communications fail or overwhelmed.
 
 We can be reached on the W4WSM 147.165(+) repeater in Bowling Green, KY.  
 
