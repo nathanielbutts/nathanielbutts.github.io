@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We as members of The Kentucky District 3 Warren County ARES strive to be an effective partner in emergency/disaster response, providing the citizens and public service/safety partners with communications expertise, situational awareness and capabilities of professional communicators.  We will accomplish this missiong by utilizing our equipment, expertise, skills and capabilities as Amateur Radio Operators to effectively pass message traffic, provide accurate and detailed situation reports, and be active during field exercises.
+We as members of The Kentucky District 3 Warren County ARES strive to be an effective partner in emergency/disaster response, providing the citizens and public service/safety partners with communications expertise, situational awareness and capabilities of professional communicators.  We will accomplish this mission by utilizing our equipment, expertise, skills and capabilities as Amateur Radio Operators to effectively pass message traffic, provide accurate and detailed situation reports, and be active during field exercises.
 
 **Remember:** Secure your family and your home first.  Do not respond until they are safe and well provided for.
 
@@ -17,6 +17,8 @@ We as members of The Kentucky District 3 Warren County ARES strive to be an effe
  - [Other](#other)
 
 ## Purpose
+
+The purpose of this document is to detail the procedures and technologies employeed by WCKY ARES members before, during, and after activations.  
 
 ## Scope
 
