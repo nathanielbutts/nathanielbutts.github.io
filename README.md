@@ -2,11 +2,22 @@
 
 ## Information
 
-This is the web presence of the WCKY ARES group.  This group belongs to Kentucky District 3, and is based in Warren County.
+This is the web presence of the WCKY ARES group.  This group belongs to Kentucky District 3, and is based in Warren County.  WCKY ARES members are licensed US Radio amateurs who have volunteered their capabilities, equipment, and time with the Kentucky ARES.  Amateur radio operators are prohibited from accepting compensation for services provided in accordance with FCC Regulation Part 97.113.  Our goal is to provide non-business backup communication services during recovery from natural or man-made disasters when regular communications fail or overwhelmed.
 
 We can be reached on the W4WSM 147.165(+) repeater in Bowling Green, KY.  
 
 ARES is the amateur radio emergency service which was created by the ARRL in 1935.  It is a way of encouraging participation by licensed amateur radio operators with an interest in emergency communication as a public service One of the main ways that ARES can help in this fashion is by partnering with local emergency management and coordination groups like the Red Cross the Salvation Army local first responders and other groups who help in times of need .  We can help bridge those gaps in communications.
+
+## Table of Contents
+ - [Contacts](#contacts)
+ - [Important Links](#important-links)
+ - [Registration](#registration)
+ - [Members](#members)
+ - [Items of Interest](#items-of-interest)
+ - [Reports](#reports)
+ - [Training](#training)
+ - [Participation](#participation)
+ - [Proficiency/Skill](#proficiency/skill)
 
 ## Contacts
 
@@ -24,6 +35,7 @@ Emergency Coordinator
  - [Kentucky Colonels Amateur Radio Club](https://ky4bg.com/)
  - [ARRL NTS Forms](https://www.arrl.org/public-service-field-services-forms)
  - [ARRL NTS Net Directory](https://www.arrl.org/arrl-net-directory)
+ - [WCKY ARES Operations Plan](operations_plan.md)
 
 ## Registration
 
@@ -55,6 +67,8 @@ To participate in ARES, you must be hold a current, valid, amateur radio license
 
 You will need a Taskbook to track your training progress.  If you do not have one, [click here to download it](https://www.arrl.org/files/file/ARES%20Taskbook%20July%202024%20(improved).pdf). 
 
+Performing to the highest standard and in a professional manner is the goal of the organization when activated.  This training is essential for knowing how to work with the differing served agencies, how to follow chain-of-command, and how to work as a cohesive unit.
+
 | Class | Video | Basic | Intermediate | Advanced |
 |-------|:-----:|:-----:|:------------:|:--------:|
 |[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en)| [Link](https://www.youtube.com/watch?v=DJ8l6jByOu0&list=PLAj84mM73h2cfQQCj678g9SJ3GUpsgPBe) | R | R | R |
@@ -85,7 +99,7 @@ You will need a Taskbook to track your training progress.  If you do not have on
 
 ## Participation
 
-The Taskbook also lists participations that are required, encouraged, or optional.  
+The Taskbook also lists participations that are required, encouraged, or optional.  Participating in these items will allow you to practice the skills necessary if we are activated.
 
 | Item | Basic | Intermediate | Advanced |
 |-------|:-----:|:------------:|:--------:|
@@ -99,7 +113,7 @@ The Taskbook also lists participations that are required, encouraged, or optiona
 
 ## Proficiency/Skill
 
-The Taskbook also lists skills that are to be signed off by the EC that are required, encouraged, or optional.  
+Being self-sufficient is a hallmark of the Amateur Radio Operator.  The Taskbook also lists skills that are to be signed off by the EC that are required, encouraged, or optional.  These skills are necessary or potentially very useful to perform to the highest ability.  Knowing how to do these items can assist in the field when you need to setup for deployment, problem solve when things go wrong, or to assist the Served Agencies should the need arise.  
 
 | Item | Basic | Intermediate | Advanced |
 |-------|:-----:|:------------:|:--------:|
