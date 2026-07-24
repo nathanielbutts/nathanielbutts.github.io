@@ -132,3 +132,18 @@ hospital net results
   * KD9GRD MIKE
   * K4WKU
   * KI4HEJ
+
+## Net 9: 20260723@1930
+### Basic Info
+  * Freq = 147.615
+  * Start Time = 1930
+  * End time = 1944
+  * Total checkins = 7
+
+### Checkins
+  * k9chs 
+  * ky4jps
+  * kn4biy
+  * k4wku
+  * ki4hej
+  * wj4t
