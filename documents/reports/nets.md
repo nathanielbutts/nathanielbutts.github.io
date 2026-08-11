@@ -147,3 +147,19 @@ hospital net results
   * k4wku
   * ki4hej
   * wj4t
+
+## Net 10: 20260730@1930
+### Basic Info
+  * Freq = 147.615
+  * Start Time = 1930
+  * End time = 1947
+  * Total checkins = 8
+
+### Checkins
+  * KD9GRD MIKE BG
+  * K9CHS GARY
+  * K4WKU STEVE
+  * KI4HEJ
+  * KQ4OQL
+  * KR4MKD JOHN SIMP CO 
+
