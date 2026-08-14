@@ -5,8 +5,8 @@
 ### Basic Info
   * Freq = 147.615
   * Start Time = 1930
-  * End time = 
-  * Total checkins =
+  * End time = 1951
+  * Total checkins = 9
 
 ### Notes/Announcements
   * August 29th, field exercise
@@ -26,6 +26,14 @@
 
 ### Checkins
 
+  * KD9GRD
+  * K9CHS
+  * KN4WLM
+  * K4WKU
+  * KR4MKD JOHN SIMP
+  * KI4HEJ
+  * KQ4OQL
+  * KR4BZH
 
 ## Net 11: 2026.08.06@1930
 
