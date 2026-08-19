@@ -56,6 +56,7 @@ To participate in ARES, you must be hold a current, valid, amateur radio license
  - [YouTube - Tactical Voice Messaging NE ARES](https://www.youtube.com/watch?v=iRxE2IU9Gbo)
  - [YouTube - Situational Aweness and Ground Truth](https://www.youtube.com/watch?v=WrbHL8cvQ5g)
  - [YouTube - Messages and Forms Handling](https://www.youtube.com/watch?v=27eq0ULBFiw)
+ - :new:[YouTube - How to be a Net Control Operator](https://www.youtube.com/watch?v=YZbLblIwotE)
 
 ## Reports
 
