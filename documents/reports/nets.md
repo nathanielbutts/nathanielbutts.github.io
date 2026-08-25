@@ -1,5 +1,23 @@
 # WCKY ARES - Net Notes
 
+### Basic Info
+  * Freq = 147.615
+  * Start Time = 1930
+  * End time = 1946
+  * Total checkins = 6
+
+### Notes/Announcements
+  * August 29th, field exercise
+  * First ARES meeting 9/3
+    * Time/location tbd
+
+### Checkins
+  * k9chs
+  * kn4wlm
+  * kd9grd mike
+  * ki4hej
+  * kr4mkd
+
 ## Net 12:  2026.08.13@1930
 
 ### Basic Info
