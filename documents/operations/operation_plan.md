@@ -85,6 +85,7 @@ The number one concern for every ARES member is the safety and protection of the
 
 **Common Threats**
 
+|                     |                            |
 |:--------------------|:---------------------------|
 |Earthquake           | Communicable disease       |
 |Extreme Temperature  | Floods                     |
