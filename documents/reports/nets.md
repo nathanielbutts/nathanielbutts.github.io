@@ -1,5 +1,33 @@
 # WCKY ARES - Net Notes
 
+## Net 14: 2026.08.27@1930
+
+### Basic Info
+  * Freq = 147.615
+  * Start Time = 1930
+  * End time = 
+  * Total checkins =
+
+### Notes/Announcements
+  * August 29th, field exercise
+  * First ARES meeting 9/3/2026
+    * Time/location tbd
+  * Louisville Hamfest 9/12
+    * Dennis Lutz (SEC) presenting ARES forum
+    * Louisville Metro EMA bringing MEOC (Mobile Emergency Operations Center)
+  * ARRL Simulated Emergency Test
+    * 10/3-4/2026
+    * Plans TBD
+  * NWS Paducah Elite Spotter Training
+    * 10/22/2026 1800-2200 CST
+    * Online webinar
+    * Need to have basic spotter credentials
+
+### Checkins
+  * 
+
+## Net 13: 2026.08.20@1930
+
 ### Basic Info
   * Freq = 147.615
   * Start Time = 1930
