@@ -38,7 +38,6 @@ Emergency Coordinator
  - [ARRL NTS Forms](https://www.arrl.org/public-service-field-services-forms)
  - [ARRL NTS Net Directory](https://www.arrl.org/arrl-net-directory)
  - [WCKY ARES Operations Plan](operations_plan.md)
->>>>>>> 658e921d658996b1446540ff68b284d7ff65b550
 
 ## Registration
 
