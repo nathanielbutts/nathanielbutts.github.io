@@ -1,6 +1,6 @@
 # WCKY ARES
 
-![WCKY ARES Logo](assets/images/wcky_ARES_logo.png)
+![WCKY ARES Logo](/assets/images/wcky_ARES_logo.png)
 
 # Field Resources Manual - Revised 2026.08.28
 
