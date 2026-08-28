@@ -196,13 +196,13 @@ Members are encouraged to experiment with this type of antenna at home or during
 It is recommended that 30amp Anderson Power Poles be used on all power leads to power any and all equipment where feasible.  If all members use power poles then it makes it easy to switch equipment or power supplies easily in case of failure.  They can safely handle current levels of 15A, 30A, or 45A and Power Poles are relatively easy to assemble, but there are some important points to watch for.
 
 <div align="center">
-
     <img src="/assets/images/anderson_poles_1.png" style="width: 100%; height: auto;">
+</div>
 
-        <br>
+<br>
 
+<div>
     <img src="/assets/images/anderson_poles_2.png" style="width: 100%; height: auto;">
-
 </div>
 
 ### 6.0.9 Preambles
