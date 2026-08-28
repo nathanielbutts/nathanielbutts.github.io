@@ -41,6 +41,8 @@ The listed resources are only applicable to the WCKY ARES group and not necessar
 |Title|Callsign|Name|email|Phone Number|
 |:-:|-|-|-|-|
 |EC|KQ4TIV|Nathan Butts|nathanielbutts@gmail.com|(270)991-4641|
+|SEC|Dennis Lutz|dennislutz2@aol.com||
+|SM|Bob Selbrede|k6zz@arrl.org||
 
 ### 6.1 Served Agencies
 
@@ -50,16 +52,55 @@ None at this time
 **Secondary**
 None at this time
 
-### 6.2 Frequencies
+### 6.2 Band Plan
+
+Do not use the National Calling Frequency 146.520 MHz for passing traffic related to ARES or emergency communication.  This frequency should be monitored in case someone has an emergency, but they should be directed to the proper frequency where net traffic or assistance is located.
 
 |Use/Type|Frequency|Offset|Tones|Notes|
 |-|-|-|-|-|
 |Primary ARES Repeater|147.165 MHz|+0.6 MHz|None||
 |Backup ARES Repeater|147.330 MHz|+0.6 MHz|107.2||
 |Simplex|146.430 MHz||||
+|Backup Simplex| 147.430 MHz||||
+|NBEMS|tbd||||
+|APRS|tbd||||
 |NOAA Weather BG|162.400 MHz|||Rx only|
+|Simpson County ARES | 442.200 | +5.0 MHz | 77 ||
 |Central KY Skywarn|146.700 MHz|-0.6 MHz|151.4||
 |KY Emergency Net|3.9725 MHz||||
 
+### 6.3 Nets
 
+
+### 6.4 Rally Points
+
+###
+
+
+### (Put this somewhere) Pro Word Dictionary
+
+ - AFFIRMATIVE means “Yes” or “I agree” or “Permission granted.”
+ - BREAK, BREAK, BREAK means you have emergency traffic that must be passed immediately.
+ - CHECK BREAK means you are pausing to verify that the receiving station has copied your message.  An appropriate response from the receiving station would be “COPY.”
+ - CLEAR or OUT means your transmission is completed and no answer is required or expected.
+ - CLOSE means you are shutting down your station and can no longer be contacted.
+ - COPY THAT or ROGER means you have received the transmission satisfactorily.
+ - CORRECT means you acknowledge what was transmitted as correct.
+ - CORRECTION means an error has been made and the transmission will continue with the last word correctly transmitted.
+ - DECIMAL indicates a decimal point.
+ - DISREGARD means an error has been made in the transmission that is in progress and you are to completely ignore this transmission.
+ - FIGURES means that the following words are to be copied as numbers.
+ - I SPELL means you will spell the following word(s) phonetically.
+ - NEGATIVE means “No” or “I disagree” or “Permission denied.”
+ - OUT or CLEAR means your transmission is completed and no answer is required or expected.
+ - OVER means you are finished with your transmission and the other station is expected to reply.
+ - ROGER or COPY THAT means you have received the transmission satisfactorily.
+ - SAY AGAIN means you want the last message to be repeated.  You may include a modifier to have part of a message repeated, as in the following examples:
+ - “Say again ALL AFTER __________”
+ - “Say again ALL BEFORE _________”
+ - “Say again WORD AFTER _________”
+ - “Say again WORD BEFORE ________”
+ - STANDBY or WAIT means you are not yet ready to copy.  You may include a time modifier, such as “Standby one.”
+ - THIS IS means the transmission is from the station whose call sign follows.
+ - WAIT or STANDBY means you are not yet ready to copy.  You may include a time modifier, such as “Standby one.”
 
