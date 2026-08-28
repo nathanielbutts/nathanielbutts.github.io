@@ -229,7 +229,7 @@ Below is a list of organizations, agencies, etc. with which WCKY ARES has signed
 
 * TBD
 
-### 7.0 Pro Word Dictionary
+## 7.0 Pro Word Dictionary
 
 * AFFIRMATIVE means “Yes” or “I agree” or “Permission granted.”
 * BREAK, BREAK, BREAK means you have emergency traffic that must be passed immediately.
@@ -256,7 +256,7 @@ Below is a list of organizations, agencies, etc. with which WCKY ARES has signed
 * THIS IS means the transmission is from the station whose call sign follows.
 * WAIT or STANDBY means you are not yet ready to copy.  You may include a time modifier, such as “Standby one.”
 
-### 8.0 Revision History
+## 8.0 Revision History
 
 |Version|Date|Author|Notes|
 |:-:|:-:|-|-|

@@ -1,5 +1,9 @@
 # WCKY ARES - Operations Plan
 
+<div align="center">
+  <img src="/assets/wcky_ARES_logo.png" width="350">
+</div>
+
 ## 1.0 Introduction
 
 We as members of The Kentucky District 3 Warren County ARES strive to be an effective partner in emergency/disaster response, providing the citizens and public service/safety partners with communications expertise, situational awareness and capabilities of professional communicators.  We will accomplish this mission by utilizing our equipment, expertise, skills and capabilities as Amateur Radio Operators to effectively pass message traffic, provide accurate and detailed situation reports, and be active during field exercises.  We strive to be supportive in times of need in our local communities and beyond.
@@ -14,7 +18,6 @@ We as members of The Kentucky District 3 Warren County ARES strive to be an effe
 * [4.0 Scope](#4.0-scope)
 * [5.0 Definitions and Acronyms](#5.0-definitions-and-acronyms)
 * [6.0 Concepts](#6.0-concepts)
-
   * [6.0.1 Statements](#6.0.1-statements)
   * [6.0.02 Qualifications for Membership in ARES](#6.0.2-qualifications-for-membership-in-ares)
   * [6.0.03 Authority](#6.0.3-authority)
@@ -32,6 +35,7 @@ We as members of The Kentucky District 3 Warren County ARES strive to be an effe
   * [6.0.15 Search/Rescue Operation](#6.0.15-search/rescue-operation)
   * [6.0.16 Public Service Communications](#6.0.16-public-service-communications)
   * [6.0.17 Working with Served Agencies](#6.0.17-working-with-served-agencies)
+*[7.0 Revision History](#7.0-revision-history)
 
 ## 3.0 Purpose
 
@@ -251,4 +255,11 @@ ARES retains its own identity and organization structure, personnel and physical
 The ARES infrastructure includes privately owned radios, antennas, ARES dedicated and cooperating repeaters and accessory equipment. Even more important than the equipment, the organizational structure includes numerous nets, training exercises, community support and cooperative planning with the agencies.
 
 When officials request ARES support they get the full benefit of all this, as well as the personal services of many volunteer operators, many of whom are not visible in the emergency or disaster area. At the same time, be mindful that ARES operators working in a served agency will be perceived as a part of their organization, should be governed by their dress, grooming, and behavior standards, and should be prepared to do anything within reason to assist them.
+
+## 7.0 Revision History
+
+|Version|Date|Author|Notes|
+|:-:|:-:|-|-|
+|1.0|2026.08.24|KQ4TIV Nathan Butts|Initial creation|
+
 

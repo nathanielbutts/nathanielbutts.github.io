@@ -37,7 +37,8 @@ Emergency Coordinator
  - [Kentucky Colonels Amateur Radio Club](https://ky4bg.com/)
  - [ARRL NTS Forms](https://www.arrl.org/public-service-field-services-forms)
  - [ARRL NTS Net Directory](https://www.arrl.org/arrl-net-directory)
- - [WCKY ARES Operations Plan](operations_plan.md)
+ - [WCKY ARES Operations Plan](/documents/operations/operation_plan.md)
+ - [WCKY ARES Field Resources Manual](/documents/operations/frm.md)
 
 ## Registration
 
