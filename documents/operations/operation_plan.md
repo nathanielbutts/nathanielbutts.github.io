@@ -1,7 +1,7 @@
 # WCKY ARES - Operations Plan
 
 <div align="center">
-  <img src="/assets/wcky_ARES_logo.png" width="350">
+  <img src="/assets/wcky_ARES_logo.png" width="350" class="transparent-bg">
 </div>
 
 ## 1.0 Introduction

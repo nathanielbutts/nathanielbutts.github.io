@@ -1,7 +1,7 @@
 # WCKY ARES
 
 <div align="center">
-  <img src="/assets/wcky_ARES_logo.png" width="350">
+  <img src="/assets/wcky_ARES_logo.png" width="350" class="transparent-bg">
 </div>
 
 # Field Resources Manual - Revised 2026.08.28
