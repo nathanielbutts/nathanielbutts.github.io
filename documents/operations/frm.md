@@ -92,18 +92,22 @@ Do not use the National Calling Frequency 146.520 MHz for passing traffic relate
 ***Primary***
 
 Kereiakes Park
+
 Front Parking Lot
+
 1220 Fairview Avenue
 
-<img src="/assets/images/rally_point_primary.png" width="225">
+<img src="/assets/images/rally_point_primary.png" width="300">
 
 ***Secondary***
 
 Old Mall/WKU Small Business Accelerator
+
 Parking Lot By Chic-fil-a and Speedway
+
 2413 Nashville Rd
 
-<img src="/assets/images/rally_point_secondary.png" width="225">
+<img src="/assets/images/rally_point_secondary.png" width="300">
 
 ### 6.0.5 Building a Dipole Antenna
 
@@ -182,6 +186,10 @@ However, some emergencies can cover an extreme geological area, making further d
 Members are encouraged to experiment with this type of antenna at home or during a POTA so that if it's needed, they will be well equipped to use it.
 
 ### 6.0.7 Building a 2m/70cm Rollup Antenna
+
+<div align="center">
+    <img src="/assets/images/antenna_fong_dualband.png" width="350">
+</div>
 
 ### 6.0.8 Assembling Anderson Power Poles
 
