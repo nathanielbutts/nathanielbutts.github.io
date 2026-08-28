@@ -1,6 +1,8 @@
 # WCKY ARES
 
-![WCKY ARES Logo](/assets/wcky_ARES_logo.png)
+<div align="center">
+  <img src="/assets/wcky_ARES_logo.png" width="350">
+</div>
 
 # Field Resources Manual - Revised 2026.08.28
 
