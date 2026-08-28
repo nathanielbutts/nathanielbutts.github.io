@@ -5,8 +5,8 @@
 ### Basic Info
   * Freq = 147.615
   * Start Time = 1930
-  * End time = 
-  * Total checkins =
+  * End time = 1947
+  * Total checkins = 8
 
 ### Notes/Announcements
   * August 29th, field exercise
@@ -24,7 +24,14 @@
     * Need to have basic spotter credentials
 
 ### Checkins
-  * 
+  * KD9GRD
+  * KN4BIY
+  * KN4WLM
+  * KR4MKD
+  * K4WKU
+  * KI4HEJ
+  * KQ4OQL
+  * KQ4TIV
 
 ## Net 13: 2026.08.20@1930
 
