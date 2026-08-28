@@ -20,6 +20,19 @@ We as members of The Kentucky District 3 Warren County ARES strive to be an effe
 * [4.0 Scope](#4.0-scope)
 * [5.0 Definitions and Acronyms](#5.0-definitions-and-acronyms)
 * [6.0 Resources](#6.0-resources)
+  * [6.0.1 Contacts](#601-contacts)                                                  
+  * [6.0.2 Served Agencies](#602-served-agencies)                                    
+  * [6.0.3 Band Plan](#603-band-plan)                                                
+  * [6.0.4 Rally Points](#604-rally-points)                                          
+  * [6.0.5 Building a Dipole Antenna](#605-building-a-dipole-antenna)                
+  * [6.0.6 End Fed Half Wave Antennas](#606-end-fed-half-wave-antennas)              
+  * [6.0.7 Building a 2m/70cm Rollup Antenna](#607-building-a-2m70cm-rollup-antenna) 
+  * [6.0.8 Assembling Anderson Power Poles](#608-assembling-anderson-power-poles)    
+  * [6.0.9 Preambles](#609-preambles)                                                
+  * [6.1 Agreements](#61-agreements)                                                 
+* [7.0 Pro Word Dictionary](#70-pro-word-dictionary)                               
+* [8.0 Revision History](#80-revision-history)                                     
+
 
 ## 3.0 Purpose
 
@@ -40,7 +53,7 @@ The listed resources are only applicable to the WCKY ARES group and not necessar
 
 ## 6.0 Resources
 
-### Contacts
+### 6.0.1 Contacts
 
 |Title|Callsign|Name        |email                   |Phone Number |
 |:---:|--------|------------|------------------------|-------------|
@@ -48,7 +61,7 @@ The listed resources are only applicable to the WCKY ARES group and not necessar
 |SEC  |W2QN    |Dennis Lutz |dennislutz2@aol.com     |             |
 |SM   |K6ZZ    |Bob Selbrede|k6zz@arrl.org           |             |
 
-### 6.1 Served Agencies
+### 6.0.2 Served Agencies
 
 **Primary**
 None at this time
@@ -56,30 +69,45 @@ None at this time
 **Secondary**
 None at this time
 
-### 6.2 Band Plan
+### 6.0.3 Band Plan
 
 Do not use the National Calling Frequency 146.520 MHz for passing traffic related to ARES or emergency communication.  This frequency should be monitored in case someone has an emergency, but they should be directed to the proper frequency where net traffic or assistance is located.
 
-|Use/Type|Frequency|Offset|Tones|Notes|
-|-|-|-|-|-|
-|Primary ARES Repeater|147.165 MHz|+0.6 MHz|None||
-|Backup ARES Repeater|147.330 MHz|+0.6 MHz|107.2||
-|Simplex|146.430 MHz||||
-|Backup Simplex|147.430 MHz||||
-|NBEMS|tbd||||
-|APRS|tbd||||
-|NOAA Weather BG|162.400 MHz|||Rx only|
-|Simpson County ARES|442.200|+5.0 MHz|77||
-|Central KY Skywarn|146.700 MHz|-0.6 MHz|151.4||
-|KY Emergency Net|3.9725 MHz||||
-
-### 6.3 Nets
+|Use/Type             |Frequency  |Offset   |Tones|Notes  |
+|---------------------|-----------|---------|-----|-------|
+|Primary ARES Repeater|147.165 MHz|+0.6 MHz |None |       |
+|Backup ARES Repeater |147.330 MHz|+0.6 MHz |107.2|       |
+|Simplex              |146.430 MHz|         |     |       |
+|Backup Simplex       |147.430 MHz|         |     |       |
+|NBEMS                |tbd        |         |     |       |
+|APRS                 |tbd        |         |     |       |
+|NOAA Weather BG      |162.400 MHz|         |     |Rx only|
+|Simpson County ARES  |442.200    |+5.0 MHz |77   |       |
+|Central KY Skywarn   |146.700 MHz|-0.6 MHz |151.4|       |
+|KY Emergency Net     |3.9725 MHz |         |     |       |
 
 
+### 6.0.4 Rally Points
 
-### 6.4 Rally Points
+***Primary***
 
-### Building a Dipole Antenna
+Kereiakes Park
+Front Parking Lot
+1220 Fairview Avenue
+
+<img src="/assets/images/rally_point_primary.png" width="225">
+
+***Secondary***
+
+Old Mall/WKU Small Business Accelerator
+Parking Lot By Chic-fil-a and Speedway
+2413 Nashville Rd
+
+<img src="/assets/images/rally_point_secondary.png" width="225">
+
+### 6.0.5 Building a Dipole Antenna
+
+<img src="/assets/images/antenna_dipole.jpg">
 
 ***Dimensions***
 
@@ -127,6 +155,8 @@ a. Usually with BNC connection
 3. Electrical tape or zip ties
 a. For securing ends
 
+<img src="/assets/images/antenna_binding_post.jpg">
+
 It can also be a great idea to carry a cheap 1:1 balun in your kit for this purpose, and some FT240-43 Ferrite toroids.  Coax can be wrapped through the toroid a number of turns to reduce rf noise while the balun will do this plus give you a solid place to mount wires as well.
 
 ***Construction***
@@ -143,7 +173,7 @@ b. For 10m through 80m you will can mount horizontally or vertically, though the
 c. If mounting horizontally, mount them so that the feed point is a minimum 15ft above the ground, though 30ft would be more ideal
 7. Attach the other end of coax to radio and test receive and transmit ability
 
-### End Fed Half Wave Antennas
+### 6.0.6 End Fed Half Wave Antennas
 
 An End Fed Half Wave (EFHW) antenna is a great option for HF long distance communication as the take off angle of the beam will be at a lower angle to the ground, allowing the signal to reach further over the horizon before skipping off the ionosphere.  For the majority of activations, NVIS style antennas work better for 20m through 80m since we are targeting communication within 100-400 miles of our position.
 
@@ -151,19 +181,43 @@ However, some emergencies can cover an extreme geological area, making further d
 
 Members are encouraged to experiment with this type of antenna at home or during a POTA so that if it's needed, they will be well equipped to use it.
 
-### Building a 2m/70cm Rollup Antenna
+### 6.0.7 Building a 2m/70cm Rollup Antenna
 
+### 6.0.8 Assembling Anderson Power Poles
 
+It is recommended that 30amp Anderson Power Poles be used on all power leads to power any and all equipment where feasible.  If all members use power poles then it makes it easy to switch equipment or power supplies easily in case of failure.  They can safely handle current levels of 15A, 30A, or 45A and Power Poles are relatively easy to assemble, but there are some important points to watch for.
 
-### Agreements
+<div align="center">
+    <img src="/assets/images/anderson_poles_1.png" width="350">
+
+    <img src="/assets/images/anderson_poles_2.png" width="350">
+</div>
+
+### 6.0.9 Preambles
+
+#### Emergency Net
+
+(This is a suggested format that may be modified at the discretion of the net control station)
+
+***At Startup***
+
+Calling the WCKY ARES Emergency Net. Calling the **WCKY ARES Emergency Net**. This net has been activated to provide emergency communications in response to (name of disaster event at/in location of event).  It is requested that stations that do not have traffic related to this disaster not contact the net. This is (call sign) in (QTH) net control for the next two hours. Stations with emergency or priority traffic ONLY call now with callsign and traffic list (if no response, ask for any relays).  Stations with emergency or priority traffic ONLY may break the net with EMERGENCY followed by call sign.
+
+***When first starting the net and every hour after***
+
+This is a directed net for liaison stations from emergency response agencies, stations with high priority traffic, or stations in the affected area with information. Please transmit only when requested to do so. After checking into the net, inform NCS if you need to leave the net (pause).
+
+This net will handle emergency and priority traffic ONLY. All health and welfare and routine traffic should be routed via the National Traffic System or local or regional digital nets as available. Note only outbound Health/Welfare traffic will be handled if there is a moratorium on inbound traffic. During periods when the Net is not busy, please keep the frequency clear.
+
+Stations wishing to check in from EOCs, NWS, NTS or other emergency response agencies call now with agency, callsign, and traffic list. (If no response, ask for any relays) (Repeat every 5 min)
+
+### 6.1 Agreements
 
 Below is a list of organizations, agencies, etc. with which WCKY ARES has signed an agreement or created an MOU with:
 
 * TBD
 
-
-
-### (Put this somewhere) Pro Word Dictionary
+### 7.0 Pro Word Dictionary
 
 * AFFIRMATIVE means “Yes” or “I agree” or “Permission granted.”
 * BREAK, BREAK, BREAK means you have emergency traffic that must be passed immediately.
@@ -190,7 +244,7 @@ Below is a list of organizations, agencies, etc. with which WCKY ARES has signed
 * THIS IS means the transmission is from the station whose call sign follows.
 * WAIT or STANDBY means you are not yet ready to copy.  You may include a time modifier, such as “Standby one.”
 
-### Revision History
+### 8.0 Revision History
 
 |Version|Date|Author|Notes|
 |:-:|:-:|-|-|
