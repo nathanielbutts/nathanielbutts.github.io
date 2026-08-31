@@ -1,4 +1,4 @@
-# WCKY ARES - Operations Plan
+# WCKY ARES - Kentucky District 3 Warren County
 
 <p align="center">
   <img src="../../assets/wcky_ARES_logo.png"
