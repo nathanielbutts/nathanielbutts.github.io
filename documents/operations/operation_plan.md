@@ -1,7 +1,9 @@
 # WCKY ARES - Operations Plan
 
-<div align="center">
-  <img src="/assets/wcky_ARES_logo.png" width="350" class="transparent-bg">
+<div class="center-image">
+  <img src="../../assets/wcky_ARES_logo.png"
+       class="ares-logo"
+       alt="Warren County ARES Logo">
 </div>
 
 ## 1.0 Introduction
