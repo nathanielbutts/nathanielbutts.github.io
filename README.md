@@ -1,5 +1,11 @@
 # WCKY ARES - Kentucky District 3 Warren County
 
+<p align="center">
+  <img src="../assets/wcky_ARES_logo.png"
+       class="ares-logo"
+       alt="Warren County ARES Logo">
+</p>
+
 ## Information
 
 This is the web presence of the WCKY ARES group.  This group belongs to Kentucky District 3, and is based in Warren County.  WCKY ARES members are licensed US Radio amateurs who have volunteered their capabilities, equipment, and time with the Kentucky ARES.  Amateur radio operators are prohibited from accepting compensation for services provided in accordance with FCC Regulation Part 97.113.  Our goal is to provide non-business backup communication services during recovery from natural or man-made disasters when regular communications fail or overwhelmed.
@@ -115,39 +121,6 @@ The Taskbook also lists participations that are required, encouraged, or optiona
 |Serve as net control||O|R|
 
 Performing to the highest standard and in a professional manner is the goal of the organization when activated.  This training is essential for knowing how to work with the differing served agencies, how to follow chain-of-command, and how to work as a cohesive unit.
-
-| Class | Video | Basic | Intermediate | Advanced |
-|-------|:-----:|:-----:|:------------:|:--------:|
-|[IS100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c&lang=en)| [Link](https://www.youtube.com/watch?v=DJ8l6jByOu0&list=PLAj84mM73h2cfQQCj678g9SJ3GUpsgPBe) | R | R | R |
-|[IS700](https://training.fema.gov/is/courseoverview.aspx?code=IS-700.b&lang=en)| [Link](https://www.youtube.com/watch?v=JNeXSGB8iN0&list=PLAj84mM73h2fyvHR1h1HTszv74DitunVM) | R | R | R |
-|[IS200](https://training.fema.gov/is/courseoverview.aspx?code=IS-200.c&lang=en)| [Link](https://www.youtube.com/watch?v=Hkuknl-FfQ0&list=PLAj84mM73h2fmTsjZp3iIMTHttxx1fP36) | E | R | R |
-|[IS800](https://training.fema.gov/is/courseoverview.aspx?code=IS-800.d&lang=en)| [Link](https://www.youtube.com/watch?v=JZR9Cw-rHLs) | E | R | R |
-|[IS802](https://training.fema.gov/is/courseoverview.aspx?code=IS-802.a&lang=en)|  Link |  | E | R |
-|[IS120 An Introduction to Exercises](https://training.fema.gov/IS/courseOverview.aspx?code=IS-120.c&lang=en)|  Link |  |  | R |
-|[IS230 Fundamentals of Emergency Management](https://training.fema.gov/IS/courseOverview.aspx?code=IS-230.e&lang=en)| Link |   |  | R |
-|[IS235 Emergency Planning](https://training.fema.gov/IS/courseOverview.aspx?code=IS-235.c&lang=en)|  Link |  |  | R |
-|[IS240 Leadership & Influence](https://training.fema.gov/IS/courseOverview.aspx?code=IS-240.c&lang=en)| Link |   |  | R |
-|[IS241 Decision Making & Problem Solving](https://training.fema.gov/IS/courseOverview.aspx?code=IS-241.c&lang=en)|  Link |  |  | R |
-|[IS242 Effective Communications](https://training.fema.gov/IS/courseOverview.aspx?code=IS-242.c&lang=en)| Link |   |  | R |
-|[IS244 Developing & Managing Volunteers](https://training.fema.gov/IS/courseOverview.aspx?code=IS-244.b&lang=en)|  Link |  |  | R |
-|[IS288 Role of Voluntary organizations in Emergency Mgt](https://training.fema.gov/IS/courseOverview.aspx?code=IS-288.a&lang=en)|   Link | |  | R |
-|[IS2200 Basic Emergency Operations Center Functions](https://training.fema.gov/IS/courseOverview.aspx?code=IS-2200&lang=en)| Link |   |  | R |
-|[SKYWARN Spotter Basic](https://www.weather.gov/lmk/skywarn)| Link | O | E | R |
-|[SKYWARN Advanced Training](https://www.weather.gov/lmk/skywarn)|  Link |  |  | O |
-|[Basic EmComm](https://learn.arrl.org/courses/67044)| Link | R | R | R |
-|[Intermediate EmComm](https://learn.arrl.org/courses/68230)| Link |  | R | R |
-|Advanced EmComm - On Hold| Link |   |  | R |
-|[PR-101 Public Information Officer Training](https://learn.arrl.org/account?pathPage=%2Farrl%2Fcourses%2F27055)| Link |   |  | O |
-|AUXCOM?| Link |   |  | E |
-|[ICS-300 Incident Command System for Expanding Incidents](https://www.firstrespondertraining.gov/frts/npccatalog?id=2092)|  Link |  |  | E |
-|[ICS-400 Advanced Incident Command System](https://www.firstrespondertraining.gov/frts/npccatalog?id=2116)| Link |   |  | E |
-|[COML Communications Unit Leader](https://www.firstrespondertraining.gov/frts/npccatalog?id=2214)| Link |   |  | O |
-|COMT Communications Unit Technician| Link |  |  | O |
-
-## Participation
-
-The Taskbook also lists participations that are required, encouraged, or optional.  Participating in these items will allow you to practice the skills necessary if we are activated.
-
 
 ## Proficiency/Skill
 
