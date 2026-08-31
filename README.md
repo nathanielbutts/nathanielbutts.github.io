@@ -6,7 +6,7 @@
        alt="Warren County ARES Logo">
   <img src="assets/wcky_roadmap_base.jpg"
        class="image"
-       style="max-width: 250px; height: auto;"
+       style="max-width: 35%; height: auto;"
        alt="Warren County Road Map">
 </p>
 
