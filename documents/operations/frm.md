@@ -1,12 +1,16 @@
 # WCKY ARES
 
-<div class="center-image">
+<p align="center">
   <img src="../../assets/wcky_ARES_logo.png"
        class="ares-logo"
        alt="Warren County ARES Logo">
-</div>
+</p>
 
 # Field Resources Manual - Revised 2026.08.28
+
+### Downloads
+  * [PDF - Letter Size](wcky_ares_op_01_20260824_letter.pdf)
+  * [PDF - A4 Size](wcky_ares_op_01_20260824_a4.pdf)
 
 ## 1.0 Introduction
 
