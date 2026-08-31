@@ -2,12 +2,13 @@
 
 <p align="center">
   <img src="assets/wcky_ARES_logo.png"
+       width="35%"
        class="ares-logo"
-       alt="Warren County ARES Logo">
+       alt="Warren County ARES Logo"/>
   <img src="assets/wcky_roadmap_base.jpg"
        class="image"
-       style="max-width: 35%"
-       alt="Warren County Road Map">
+       width="35%"
+       alt="Warren County Road Map"/>
 </p>
 
 ## Information
