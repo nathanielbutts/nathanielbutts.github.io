@@ -4,7 +4,7 @@
   <img src="assets/wcky_ARES_logo.png"
        class="ares-logo"
        alt="Warren County ARES Logo">
-  <img src="assets/warren_county_map_base.jpg"
+  <img src="assets/wcky_roadmap_base.jpg"
        class="image"
        alt="Warren County Road Map">
 </p>
