@@ -36,6 +36,7 @@ Absence of a procedure does not preclude its use for ARES operations, especially
 * AEC - Assistant Emergency Coordinator, appointed by EC
 * LACO - Local ARES Communications Officer, usually the EC, who is the ultimate decision maker for all emergency communications operations for the local ARES group
 * NCS - Net Control Station
+* EMA - Emergency Management Agency
 * EOC - Emergency Operations Center
 * NVIS - Near Vertical Incident Skywave, an HF antenna closer to the ground than $\\lambda$/2 to the ground, especially good for regional communication or hilly terrain
 * ICS - Incident Command Structure
@@ -45,6 +46,54 @@ Absence of a procedure does not preclude its use for ARES operations, especially
 
 ## 6.0 Operations
 
+### 6.0.0 Activations
+
+**DO NOT SELF ACTIVATE!**
+
+Self activation causes confusion, potential safety issues, and does not follow proper chain of authority.  ARES serves agencies; we do not lead them.  Check your gear, kits, etc., and wait for activation information from your EC.
+
+*In the event that a severe disturbance is forecasted for our area (i.e. Tornado, Ice, Flooding, etc.), you are encouraged to monitor the Primary Repeater frequency in the event that issues escalate quickly*
+
+### 6.0.1 Level 1 Warning
+
+**Phone Tree**
+
+<p align="center">
+  <img src="../../assets/images/phone_tree.png"
+       class="ares-logo"
+       alt="Warren County ARES Phone Tree">
+</p>
+
+If EMA or another served agency contacts the EC for a **Level 1** Warning, we will follow the below prescription:
+
+1. EC will start using the phone tree by contacting the first two members
+2. The EC will give instructions to the members called
+  1. If you receive a call, reference the phone tree for members you need to call
+  2. Relay the same information exactly as given by the previous member who called you
+3. If the EC instructions are to begin a net, go to the Primary Repeater frequency
+4. Upon arrival, first listen for a few moments to gauge if there is any current traffic
+5. If there is no traffic, call for Net Control
+6. Once Net Control acknowledges your traffic state: 
+  1. "Net Control, this is <CALLSIGN> checking in, MONITOR", or
+  2. “Net Control, this is <CALLSIGN>, unable to assist at this time” then follow with either MONITOR, CLEAR, CLOSE depending on your scenario
+7. You will be acknowledged by Net Control, then monitor any traffic if you are able
+
+### Level 2 Alert
+
+If this is a **Level 2 Alert**, perform the same prescription as for Level 1, but you need to ready your equipment, kits, family, vehicles, and supplies.  At this point, activation is extremely likely.  The Net needs to be monitored for important information.
+
+### Level 3 Activation
+
+A **Level 3 Activation** will be communicated on the initial phone call.  You need to grab your equipment and go-kit and start moving towards either the Primary or Secondary rally point, whichever is communicated by the EC.  In your vehicle it is advised to have a mobile radio on, monitoring the Primary Repeater frequency.  If you do not hear any traffic after 5 minutes, go to the Primary Simplex frequency.  
+
+Upon arrival, first listen for a few moments to gauge if there is any current traffic
+- If there is no traffic, call for Net Control
+- Once Net Control acknowledges your traffic state: 
+  - "Net Control, this is <CALLSIGN> checking in, MONITOR", or
+  - “Net Control, this is <CALLSIGN>, unable to assist at this time” then follow with either MONITOR, CLEAR, CLOSE depending on your situation and abilities.
+
+The EC may meet you at the Rally Point, or they may need to travel to the EOC, depending on agency needs.  Wait at the Rally Point as long as it is safe until you receive assignments or further information from the EC.
+ 
 ### 6.1.0 Basic Emergency Communication Practices
 - Listen before transmitting.
 - Use standard ITU phonetics.
@@ -99,7 +148,16 @@ Absence of a procedure does not preclude its use for ARES operations, especially
 - STANDBY or WAIT means you are not yet ready to copy. You may include a time modifier, such as “Standby one.”
 - THIS IS means the transmission is from the station whose call sign follows.
 
-### 6.2.0 Activation
+### 6.2.0 Assignments
+
+Assignments will be provided by the EC.  Stations will be assigned two operators wherever possible to provide setup support and relief for rest.  However, if resources are spread thin, we could assign one operator to some stations.
+
+### 6.2.1 Assignments - General
+
+### 6.2.2 Assignments - Shelters
+
+### 6.2.3 Assignments - Search and Rescue
+
 
 |Version|Date|Author|Notes|
 |:-:|:-:|-|-|

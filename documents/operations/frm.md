@@ -79,18 +79,18 @@ None at this time
 
 Do not use the National Calling Frequency 146.520 MHz for passing traffic related to ARES or emergency communication.  This frequency should be monitored in case someone has an emergency, but they should be directed to the proper frequency where net traffic or assistance is located.
 
-|Use/Type             |Frequency  |Offset   |Tones|Notes  |
-|---------------------|-----------|---------|-----|-------|
-|Primary ARES Repeater|147.165 MHz|+0.6 MHz |None |       |
-|Backup ARES Repeater |147.330 MHz|+0.6 MHz |107.2|       |
-|Simplex              |146.430 MHz|         |     |       |
-|Backup Simplex       |147.430 MHz|         |     |       |
-|NBEMS                |tbd        |         |     |       |
-|APRS                 |tbd        |         |     |       |
-|NOAA Weather BG      |162.400 MHz|         |     |Rx only|
-|Simpson County ARES  |442.200    |+5.0 MHz |77   |       |
-|Central KY Skywarn   |146.700 MHz|-0.6 MHz |151.4|       |
-|KY Emergency Net     |3.9725 MHz |         |     |       |
+|Use/Type                |Frequency  |Offset   |Tones|Notes  |
+|------------------------|-----------|---------|-----|-------|
+|Primary ARES Repeater   |147.165 MHz|+0.6 MHz |None |       |
+|Secondary ARES Repeater |147.330 MHz|+0.6 MHz |107.2|       |
+|Primary Simplex         |146.430 MHz|         |     |       |
+|Secondary Simplex       |147.430 MHz|         |     |       |
+|NBEMS                   |tbd        |         |     |       |
+|APRS                    |tbd        |         |     |       |
+|NOAA Weather BG         |162.400 MHz|         |     |Rx only|
+|Simpson County ARES     |442.200    |+5.0 MHz |77   |       |
+|Central KY Skywarn      |146.700 MHz|-0.6 MHz |151.4|       |
+|KY Emergency Net        |3.9725 MHz |         |     |       |
 
 
 ### 6.0.4 Rally Points

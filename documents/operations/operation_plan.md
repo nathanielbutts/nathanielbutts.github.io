@@ -8,7 +8,7 @@
 
 </p>
 
-# Field Resources Manual - Revised 2026.08.24
+# Operations Plan - Revised 2026.08.24
 
 ### Downloads
   * [PDF - Letter Size](wcky_ares_op_01_20260824_letter.pdf)
