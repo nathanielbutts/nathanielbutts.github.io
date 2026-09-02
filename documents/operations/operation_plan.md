@@ -1,16 +1,18 @@
 # WCKY ARES - Kentucky District 3 Warren County
 
 <p align="center">
+
   <img src="../../assets/wcky_ARES_logo.png"
        class="ares-logo"
        alt="Warren County ARES Logo">
+
 </p>
 
 # Field Resources Manual - Revised 2026.08.24
 
 ### Downloads
   * [PDF - Letter Size](wcky_ares_op_01_20260824_letter.pdf)
-  * [PDF - A4 Size](wcky_ares_op_01_20260824_a4.pdf)
+  * [PDF - A5 Size](wcky_ares_op_01_20260824_a5.pdf)
 
 ## 1.0 Introduction
 
