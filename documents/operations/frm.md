@@ -20,12 +20,12 @@ We as members of The Kentucky District 3 Warren County ARES strive to be an effe
 
 ## 2.0 Table of Contents
 
-* [1.0 Introduction](#1.0-introduction)
-* [2.0 Table of Contents](#2.0-table-of-contents)
-* [3.0 Purpose](#3.0-purpose)
-* [4.0 Scope](#4.0-scope)
-* [5.0 Definitions and Acronyms](#5.0-definitions-and-acronyms)
-* [6.0 Resources](#6.0-resources)
+* [1.0 Introduction](#10-introduction)
+* [2.0 Table of Contents](#20-table-of-contents)
+* [3.0 Purpose](#30-purpose)
+* [4.0 Scope](#40-scope)
+* [5.0 Definitions and Acronyms](#50-definitions-and-acronyms)
+* [6.0 Resources](#60-resources)
   * [6.0.1 Contacts](#601-contacts)                                                  
   * [6.0.2 Served Agencies](#602-served-agencies)                                    
   * [6.0.3 Band Plan](#603-band-plan)                                                
@@ -100,7 +100,6 @@ Do not use the National Calling Frequency 146.520 MHz for passing traffic relate
 Kereiakes Park
 
 Front Parking Lot
-
 1220 Fairview Avenue
 
 <img src="/assets/images/rally_point_primary.png" width="300">
@@ -108,9 +107,7 @@ Front Parking Lot
 ***Secondary***
 
 Old Mall/WKU Small Business Accelerator
-
 Parking Lot By Chic-fil-a and Speedway
-
 2413 Nashville Rd
 
 <img src="/assets/images/rally_point_secondary.png" width="300">

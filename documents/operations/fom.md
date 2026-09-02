@@ -10,7 +10,7 @@
 
 ### Downloads
   * [PDF - Letter Size](wcky_ares_op_01_20260824_letter.pdf)
-  * [PDF - A4 Size](wcky_ares_op_01_20260824_a4.pdf)
+  * [PDF - A5 Size](wcky_ares_op_01_20260824_a5.pdf)
 
 ## 1.0 Introduction
 
@@ -98,7 +98,9 @@ Absence of a procedure does not preclude its use for ARES operations, especially
   - “Say again WORD BEFORE ________”
 - STANDBY or WAIT means you are not yet ready to copy. You may include a time modifier, such as “Standby one.”
 - THIS IS means the transmission is from the station whose call sign follows.
-- WAIT or STANDBY means you are not yet ready to copy. You may include a time modifier, such as “Standby one.”
+
+### 6.2.0 Activation
+
 |Version|Date|Author|Notes|
 |:-:|:-:|-|-|
 |1.0|2026.09.01|KQ4TIV Nathan Butts|Initial creation|
