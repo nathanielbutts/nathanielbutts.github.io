@@ -1,0 +1,37 @@
+01:06:56.571 I ardopcf Version 1.0.4.1.3 (https://www.github.com/pflarue/ardop)
+01:06:56.571 I Copyright (c) 2014-2024 Rick Muething, John Wiseman, Peter LaRue
+01:06:56.571 I See https://github.com/pflarue/ardop/blob/master/LICENSE for licence details including
+  information about authors of external libraries used and their licenses.
+01:06:56.571 D Command line: ardopcf 
+01:06:56.571 I ARDOPC listening on port 8515
+01:06:56.571 I Capture Devices
+
+01:06:56.574 I Card 0, ID `PCH', name `HDA Intel PCH'
+01:06:56.574 I   Device hw:0,0 ID `ALC285 Analog', name `ALC285 Analog', 1 subdevices (0 available)
+01:06:56.574 W Error -16 opening input device
+01:06:56.574 I 
+01:06:56.574 I Card 3, ID `Device', name `USB Audio Device'
+01:06:56.574 I   Device hw:3,0 ID `USB Audio', name `USB Audio', 1 subdevices (1 available)
+01:06:56.574 I     1 channel,  sampling rate 44100..48000 Hz
+01:06:56.574 I 
+01:06:56.574 I Playback Devices
+
+01:06:56.574 I Card 0, ID `PCH', name `HDA Intel PCH'
+01:06:56.574 I   Device hw:0,0 ID `ALC285 Analog', name `ALC285 Analog', 1 subdevices (1 available)
+01:06:56.574 I     2..4 channels, sampling rate 48000..176400 Hz
+01:06:56.575 I   Device hw:0,3 ID `HDMI 0', name `Packard Bell', 1 subdevices (1 available)
+01:06:56.575 I     2 channels,  sampling rate 32000..48000 Hz
+01:06:56.575 I   Device hw:0,7 ID `HDMI 1', name `Packard Bell', 1 subdevices (1 available)
+01:06:56.576 I     2 channels,  sampling rate 32000..48000 Hz
+01:06:56.576 I   Device hw:0,8 ID `HDMI 2', name `HDMI 2', 1 subdevices (1 available)
+01:06:56.578 I     2..8 channels, sampling rate 32000..192000 Hz
+01:06:56.578 I 
+01:06:56.578 I Card 3, ID `Device', name `USB Audio Device'
+01:06:56.578 I   Device hw:3,0 ID `USB Audio', name `USB Audio', 1 subdevices (1 available)
+01:06:56.578 I     2 channels,  sampling rate 44100..48000 Hz
+01:06:56.578 I 
+01:06:56.579 I Using Both Channels of soundcard for RX
+01:06:56.579 I Using Both Channels of soundcard for TX
+01:06:56.579 I Opening Playback Device ARDOP Rate 12000
+01:06:56.579 E cannot open playback audio device ARDOP (No such file or directory)
+01:06:56.579 F Error in InitSound().  Stopping ardop.

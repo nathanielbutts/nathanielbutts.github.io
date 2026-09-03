@@ -3,7 +3,7 @@
 <p align="center">
 
   <img src="../../assets/wcky_ARES_logo.png"
-       class="ares-logo"
+       width="150"
        alt="Warren County ARES Logo">
 
 </p>
@@ -29,8 +29,8 @@ We as members of The Kentucky District 3 Warren County ARES strive to be an effe
 * [5.0 Definitions and Acronyms](#50-definitions-and-acronyms)
 * [6.0 Concepts](#60-concepts)
   * [6.0.1 Statements](#601-statements)
-  * [6.0.02 Qualifications for Membership in ARES](#602-qualifications-for-membership-in-ares)
-  * [6.0.03 Authority](#603-authority)
+  * [6.0.2 Qualifications for Membership in ARES](#602-qualifications-for-membership-in-ares)
+  * [6.0.3 Authority](#603-authority)
   * [6.0.4 Concept of Operations](#604-concept-of-operations)
   * [6.0.5 Organization](#605-organization)
   * [6.0.6 Safety](#606-safety)
@@ -45,7 +45,7 @@ We as members of The Kentucky District 3 Warren County ARES strive to be an effe
   * [6.0.15 Search/Rescue Operation](#6015-search/rescue-operation)
   * [6.0.16 Public Service Communications](#6016-public-service-communications)
   * [6.0.17 Working with Served Agencies](#6017-working-with-served-agencies)
-*[7.0 Revision History](#70-revision-history)
+* [7.0 Revision History](#70-revision-history)
 
 ## 3.0 Purpose
 
