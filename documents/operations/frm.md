@@ -10,7 +10,7 @@
 
 ### Downloads
   * [PDF - Letter Size](wcky_ares_op_01_20260824_letter.pdf)
-  * [PDF - A4 Size](wcky_ares_op_01_20260824_a4.pdf)
+  * [PDF - A5 Size](wcky_ares_op_01_20260824_a5.pdf)
 
 ## 1.0 Introduction
 
