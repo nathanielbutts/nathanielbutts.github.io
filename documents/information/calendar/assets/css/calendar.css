@@ -1,0 +1,88 @@
+:root {
+  --ares-blue: #17365d;
+  --ares-red: #b21f2d;
+  --ares-border: #cfd6df;
+  --ares-light: #f5f7fa;
+}
+
+.ares-calendar-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.calendar-view-button {
+  appearance: none;
+  border: 1px solid var(--ares-blue);
+  border-radius: 0.35rem;
+  background: #fff;
+  color: var(--ares-blue);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 600;
+  padding: 0.55rem 0.9rem;
+}
+
+.calendar-view-button:hover,
+.calendar-view-button:focus-visible {
+  background: var(--ares-light);
+}
+
+.calendar-view-button.active {
+  background: var(--ares-blue);
+  color: #fff;
+}
+
+.ares-calendar-wrap {
+  width: 100%;
+  margin: 1rem auto;
+  border: 1px solid var(--ares-border);
+  border-top: 4px solid var(--ares-red);
+  border-radius: 0.45rem;
+  background: #fff;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+#ares-calendar {
+  display: block;
+  width: 100%;
+  min-height: 720px;
+  border: 0;
+}
+
+.calendar-subscribe {
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+}
+
+.calendar-subscribe a {
+  font-weight: 600;
+}
+
+@media (max-width: 700px) {
+  #ares-calendar {
+    min-height: 650px;
+  }
+
+  .ares-calendar-toolbar {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .calendar-view-button {
+    width: 100%;
+  }
+}
+
+@media print {
+  .ares-calendar-toolbar,
+  .calendar-subscribe {
+    display: none;
+  }
+
+  .ares-calendar-wrap {
+    box-shadow: none;
+  }
+}
