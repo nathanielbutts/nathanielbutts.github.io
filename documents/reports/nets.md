@@ -10,7 +10,7 @@
 
 ### Checkins
 
-  * kq4oxs glenn north todd io
+  * KQ4OXS glenn north todd io
   * kn4biy io
   * ky4jps
   * kr4jku mike
