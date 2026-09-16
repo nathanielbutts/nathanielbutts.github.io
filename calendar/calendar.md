@@ -3,7 +3,7 @@ layout: default
 title: Warren County ARES Calendar
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/calendar.css' | relative_url }}">
+<link rel="stylesheet" href="{{ 'assets/css/calendar.css' | relative_url }}">
 
 # Warren County ARES Calendar
 
@@ -38,4 +38,4 @@ Use the buttons below to switch between month, week, and agenda views.
   window.WCKY_ARES_CALENDAR_ID = "556f00c49b50d0bb4c4de3b0f744255209587c2f84085f6ae7c82bdf558c7819@group.calendar.google.com";
   window.WCKY_ARES_CALENDAR_TIMEZONE = "America/Chicago";
 </script>
-<script src="{{ '/assets/js/calendar.js' | relative_url }}"></script>
+<script src="{{ 'assets/js/calendar.js' | relative_url }}"></script>
