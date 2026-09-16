@@ -3,7 +3,7 @@ layout: default
 title: Warren County ARES Calendar
 ---
 
-<link rel="stylesheet" href="{{ 'assets/css/calendar.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/calendar/assets/css/calendar.css' | relative_url }}">
 
 # Warren County ARES Calendar
 
