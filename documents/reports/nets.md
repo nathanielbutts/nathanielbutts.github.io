@@ -1,5 +1,35 @@
 # WCKY ARES - Net Notes
 
+## Net 15: 2026.09.10@1930
+
+### Basic Info
+  * Freq = 147.615
+  * Start Time = 1930
+  * End time = 1958
+  * Total checkins = 16
+
+### Checkins
+
+  * kq4oxs glenn north todd io
+  * kn4biy io
+  * ky4jps
+  * kr4jku mike
+  * kr4bzj lane muhlenburg
+  * k9chs
+  * k4wku
+  * kc9mu tom
+  * ko4pvi mob
+  * kq4oql echo
+  * ki4hej
+  * kr4bzf
+  * kq4tey
+  * kr4frm
+  * kd9grd
+
+Meeting posted to youtube
+Lane with 75' in muhl co could hear us
+
+
 ## Net 14: 2026.08.27@1930
 
 ### Basic Info
