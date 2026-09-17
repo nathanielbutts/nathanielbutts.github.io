@@ -11,6 +11,13 @@
        alt="Warren County Road Map"/>
 </p>
 
+# NEWS
+
+ * Group calendar has been created, please find it at [https://nathanielbutts.github.io/calendar/calendar.html](https://nathanielbutts.github.io/calendar/calendar.html)
+ * WCKY will not participate at ARRL SET this year due to new group startup and lack of training
+   * I have inquired with other groups in our District, but nobody else has plans this year for us to join in with
+   * Putting something together possibly for the Winter Field Day in January
+
 ## Information
 
 This is the web presence of the WCKY ARES group.  This group belongs to Kentucky District 3, and is based in Warren County.  WCKY ARES members are licensed US Radio amateurs who have volunteered their capabilities, equipment, and time with the Kentucky ARES.  Amateur radio operators are prohibited from accepting compensation for services provided in accordance with FCC Regulation Part 97.113.  Our goal is to provide non-business backup communication services during recovery from natural or man-made disasters when regular communications fail or overwhelmed.
@@ -18,13 +25,6 @@ This is the web presence of the WCKY ARES group.  This group belongs to Kentucky
 We can be reached on the W4WSM 147.165(+) repeater in Bowling Green, KY.
 
 ARES is the amateur radio emergency service which was created by the ARRL in 1935.  It is a way of encouraging participation by licensed amateur radio operators with an interest in emergency communication as a public service One of the main ways that ARES can help in this fashion is by partnering with local emergency management and coordination groups like the Red Cross the Salvation Army local first responders and other groups who help in times of need .  We can help bridge those gaps in communications.
-
-# NEWS
-
- * Group calendar has been created, please find it at (https://nathanielbutts.github.io/calendar/calendar.html)[https://nathanielbutts.github.io/calendar/calendar.html]
- * WCKY will not participate at ARRL SET this year due to new group startup and lack of training
-   * I have inquired with other groups in our District, but nobody else has plans this year for us to join in with
-   * Putting something together possibly for the Winter Field Day in January
 
 ## Table of Contents
  - [Contacts](#contacts)
@@ -57,6 +57,7 @@ Emergency Coordinator
  - [ARRL NTS Net Directory](https://www.arrl.org/arrl-net-directory)
  - [WCKY ARES Operations Plan](/documents/operations/operation_plan.md)
  - [WCKY ARES Field Resources Manual](/documents/operations/frm.md)
+ - [WCKY ARES Calendar](https://nathanielbutts.github.io/calendar/calendar.html)
 
 ## Registration
 

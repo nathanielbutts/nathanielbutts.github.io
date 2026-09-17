@@ -13,7 +13,7 @@
 ### Announcements
   * We will not participate in 10/3 SET 
     * The purpose of the SET is to practice what we've learned, and so far we've had no official training
-  * New section created on homepage, (https://nathanielbutts.github.io)[https://nathanielbutts.github.io]
+  * New section created on homepage, [https://nathanielbutts.github.io](https://nathanielbutts.github.io)
   * Calendar posted to website, find link on homepage
 
 ## Net 15: 2026.09.10@1930
