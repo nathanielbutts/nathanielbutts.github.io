@@ -1,30 +1,46 @@
 # WCKY ARES - Net Notes
 
+## Net 16: 2026.09.17(257)@1930
+
+### Basic Info
+  * Freq = 147.615
+  * Start time = 1930
+  * End time = 
+  * Total check-ins = 
+
+### Check-ins
+
+### Announcements
+  * We will not participate in 10/3 SET 
+    * The purpose of the SET is to practice what we've learned, and so far we've had no official training
+  * New section created on homepage, (https://nathanielbutts.github.io)[https://nathanielbutts.github.io]
+  * Calendar posted to website, find link on homepage
+
 ## Net 15: 2026.09.10@1930
 
 ### Basic Info
   * Freq = 147.615
   * Start Time = 1930
   * End time = 1958
-  * Total checkins = 16
+  * Total check-ins = 16
 
-### Checkins
+### Check-ins
 
   * KQ4OXS glenn north todd io
-  * kn4biy io
-  * ky4jps
-  * kr4jku mike
-  * kr4bzj lane muhlenburg
-  * k9chs
-  * k4wku
-  * kc9mu tom
-  * ko4pvi mob
-  * kq4oql echo
-  * ki4hej
-  * kr4bzf
-  * kq4tey
-  * kr4frm
-  * kd9grd
+  * KN4BIY io
+  * KY4JPS
+  * KR4JKU mike
+  * KR4BJZ lane muhlenburg
+  * K9CHS
+  * K4WKU
+  * KC9MU tom
+  * KO4PVI mob
+  * KQ4OQL echo
+  * KI4HEJ
+  * KR4BZF
+  * KQ4TEY
+  * KR4FRM
+  * KD9GRD
 
 Meeting posted to youtube
 Lane with 75' in muhl co could hear us
@@ -36,7 +52,7 @@ Lane with 75' in muhl co could hear us
   * Freq = 147.615
   * Start Time = 1930
   * End time = 1947
-  * Total checkins = 8
+  * Total check-ins = 8
 
 ### Notes/Announcements
   * August 29th, field exercise
@@ -53,7 +69,7 @@ Lane with 75' in muhl co could hear us
     * Online webinar
     * Need to have basic spotter credentials
 
-### Checkins
+### Check-ins
   * KD9GRD
   * KN4BIY
   * KN4WLM
@@ -69,14 +85,14 @@ Lane with 75' in muhl co could hear us
   * Freq = 147.615
   * Start Time = 1930
   * End time = 1946
-  * Total checkins = 6
+  * Total check-ins = 6
 
 ### Notes/Announcements
   * August 29th, field exercise
   * First ARES meeting 9/3
     * Time/location tbd
 
-### Checkins
+### Check-ins
   * k9chs
   * kn4wlm
   * kd9grd mike
@@ -89,7 +105,7 @@ Lane with 75' in muhl co could hear us
   * Freq = 147.615
   * Start Time = 1930
   * End time = 1951
-  * Total checkins = 9
+  * Total check-ins = 9
 
 ### Notes/Announcements
   * August 29th, field exercise
@@ -107,7 +123,7 @@ Lane with 75' in muhl co could hear us
     * Net control duties is a common task in ARES and EmComm
     * Will prioritize folks who don't do a lot of nets now.
 
-### Checkins
+### Check-ins
 
   * KD9GRD
   * K9CHS
@@ -124,9 +140,9 @@ Lane with 75' in muhl co could hear us
   * Freq = 147.615
   * Start Time = 1930
   * End time = 1944
-  * Total checkins = 9
+  * Total check-ins = 9
 
-### Checkins
+### Check-ins
   * KY4JPS  io
   * KK4SSV william simp io
   * KI4HEJ io
@@ -141,9 +157,9 @@ Lane with 75' in muhl co could hear us
   * Freq = 147.615
   * Start Time = 1930
   * End time = 1947
-  * Total checkins = 8
+  * Total check-ins = 8
 
-### Checkins
+### Check-ins
   * KD9GRD MIKE BG
   * K9CHS GARY
   * K4WKU STEVE
@@ -157,9 +173,9 @@ Lane with 75' in muhl co could hear us
   * Freq = 147.615
   * Start Time = 1930
   * End time = 1944
-  * Total checkins = 7
+  * Total check-ins = 7
 
-### Checkins
+### Check-ins
   * k9chs 
   * ky4jps
   * kn4biy
@@ -172,9 +188,9 @@ Lane with 75' in muhl co could hear us
   * Freq = 147.615
   * Start Time = 1930
   * End time = 1946
-  * Total checkins = 7
+  * Total check-ins = 7
 
-### Checkins
+### Check-ins
   * W5FU I/O
   * K9CHS I/O
   * KY4JPS M-BG
@@ -187,9 +203,9 @@ Lane with 75' in muhl co could hear us
   * Freq = 147.615
   * Start time = 1930
   * End time = 1950
-  * Total Checkins = 7 
+  * Total Check-ins = 7 
 
-### Checkins
+### Check-ins
   * K4WKU/P
   * K9CHS/B
   * KI4HEJ
@@ -204,9 +220,9 @@ hospital net results
   * Freq = 147.615
   * Start time = 1930
   * End time = 1948
-  * Total Checkins = 8
+  * Total Check-ins = 8
 
-### Checkins
+### Check-ins
   * KQ4TIV
   * K4WKU
   * K9CHS
@@ -221,9 +237,9 @@ hospital net results
   * Freq = 147.615
   * Start time = 1930
   * End time = 1943
-  * Total Checkins = 6
+  * Total Check-ins = 6
 
-### Checkins
+### Check-ins
   * K4WKU
   * KY4JPS
   * KI4HEJ
@@ -236,9 +252,9 @@ hospital net results
   * Freq = 147.615
   * Start time = 1930
   * End time = 
-  * Total Checkins = 6
+  * Total Check-ins = 6
 
-### Checkins
+### Check-ins
   *
 
 ## Net 3: 20260611@1930
@@ -246,9 +262,9 @@ hospital net results
   * Freq = 147.615
   * Start time = 1930
   * End time = 1943
-  * Total Checkins = 5
+  * Total Check-ins = 5
 
-### Checkins
+### Check-ins
   * K4WKU/P
   * KR4LYL/P
   * KD9GRD
@@ -263,9 +279,9 @@ hospital net results
  * Freq = 147.615
  * Start time = 1930
  * End time = 1944
- * Total Checkins = 6
+ * Total Check-ins = 6
 
-### Checkins
+### Check-ins
 * N1KDF
 * KY4JPS
 * KR4LYL
@@ -284,9 +300,9 @@ hospital net results
  * Freq = 147.615
  * Start time = 1930
  * End time = 1956
- * Total Checkins = 8
+ * Total Check-ins = 8
 
-### Checkins
+### Check-ins
   * KJ4ARE
   * N1KDF
   * K4WKU

@@ -19,6 +19,13 @@ We can be reached on the W4WSM 147.165(+) repeater in Bowling Green, KY.
 
 ARES is the amateur radio emergency service which was created by the ARRL in 1935.  It is a way of encouraging participation by licensed amateur radio operators with an interest in emergency communication as a public service One of the main ways that ARES can help in this fashion is by partnering with local emergency management and coordination groups like the Red Cross the Salvation Army local first responders and other groups who help in times of need .  We can help bridge those gaps in communications.
 
+# NEWS
+
+ * Group calendar has been created, please find it at (https://nathanielbutts.github.io/calendar/calendar.html)[https://nathanielbutts.github.io/calendar/calendar.html]
+ * WCKY will not participate at ARRL SET this year due to new group startup and lack of training
+   * I have inquired with other groups in our District, but nobody else has plans this year for us to join in with
+   * Putting something together possibly for the Winter Field Day in January
+
 ## Table of Contents
  - [Contacts](#contacts)
  - [Important Links](#important-links)
