@@ -11,12 +11,6 @@
        alt="Warren County Road Map"/>
 </p>
 
-{% capture test %}
-{% include test.md %}
-{% endcapture %}
-
-{{ test | markdownify }}
-
 # NEWS
 
  * (2026.09.17) Group calendar has been created, please find it at [https://nathanielbutts.github.io/calendar/calendar.html](https://nathanielbutts.github.io/calendar/calendar.html)
