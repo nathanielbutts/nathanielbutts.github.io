@@ -1,10 +1,14 @@
 # WCKY ARES - Kentucky District 3 Warren County
 
 <p align="center">
+<a href="assets/wcky_ARES_logo.png"
+   target="_blank"
+   title="Click to view full-size map"
   <img src="assets/wcky_ARES_logo.png"
        width="35%"
        class="ares-logo"
        alt="Warren County ARES Logo"/>
+</a>
   <img src="assets/wcky_roadmap_base.png"
        class="image"
        width="35%"
