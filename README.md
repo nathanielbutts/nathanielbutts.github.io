@@ -13,10 +13,11 @@
 
 # NEWS
 
- * (2026.09.17) Group calendar has been created, please find it at [https://nathanielbutts.github.io/calendar/calendar.html](https://nathanielbutts.github.io/calendar/calendar.html)
- * (2026.09.17) WCKY will not participate at ARRL SET this year due to new group startup and lack of training
-   * I have inquired with other groups in our District, but nobody else has plans this year for us to join in with
-   * Putting something together possibly for the Winter Field Day in January
+{% capture section %}
+{% include news.md %}
+{% endcapture %}
+
+{{ news | markdownify }}
 
 ## Information
 
@@ -39,11 +40,11 @@ ARES is the amateur radio emergency service which was created by the ARRL in 193
 
 ## Contacts
 
-Emergency Coordinator
+{% capture contacts %}
+{% include contacts.md %}
+{% endcapture %}
 
-* Nathan Butts
-* email: [nathanielbutts@gmail.com](nathanielbutts@gmail.com)
-* mobile: 270.991.4641
+{{ contacts | markdownify }}
 
 ## Important Links
 
@@ -65,22 +66,19 @@ To participate in ARES, you must be hold a current, valid, amateur radio license
 
 ## Members
 
-|Callsign|Name|License|Grid|
-|-|-|-|-|
-|KQ4TIV|Nathan Butts|Extra|EM66tu|
-|KY4JPS|Pat Stewart|Extra|EM67td|
-|K4WKU|Steve Junas|Extra|EM67sa|
-|K9CHS|Gary Streib|General|EM66tu|
-|KD9GRD|Mike Sangermand|Technician|EM66rw|
+{% capture members %}
+{% include members.md %}
+{% endcapture %}
 
-## Items of interest
+{{ members | markdownify }}
 
- - [YouTube - ARES Bookcamp New England](https://www.youtube.com/watch?v=T8moBMuhe-A&t=1933s)
- - [YouTube - Tactical Voice Messaging NE ARES](https://www.youtube.com/watch?v=iRxE2IU9Gbo)
- - [YouTube - Situational Aweness and Ground Truth](https://www.youtube.com/watch?v=WrbHL8cvQ5g)
- - [YouTube - Messages and Forms Handling](https://www.youtube.com/watch?v=27eq0ULBFiw)
- - 🆕[YouTube - How to be a Net Control Operator](https://www.youtube.com/watch?v=YZbLblIwotE)
- - 🆕[YouTube - Operating Ham Radio During Public Event](https://youtu.be/HHxNOMGSwAI?si=ie3VVc9M9uwcsPf7)
+## Items of Interest
+
+{% capture interest %}
+{% include interest.md %}
+{% endcapture %}
+
+{{ interest | markdownify }}
 
 ## Reports
 

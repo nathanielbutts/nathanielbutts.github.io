@@ -1,0 +1,6 @@
+ - [YouTube - ARES Bookcamp New England](https://www.youtube.com/watch?v=T8moBMuhe-A&t=1933s)
+ - [YouTube - Tactical Voice Messaging NE ARES](https://www.youtube.com/watch?v=iRxE2IU9Gbo)
+ - [YouTube - Situational Aweness and Ground Truth](https://www.youtube.com/watch?v=WrbHL8cvQ5g)
+ - [YouTube - Messages and Forms Handling](https://www.youtube.com/watch?v=27eq0ULBFiw)
+ - 🆕[YouTube - How to be a Net Control Operator](https://www.youtube.com/watch?v=YZbLblIwotE)
+ - 🆕[YouTube - Operating Ham Radio During Public Event](https://youtu.be/HHxNOMGSwAI?si=ie3VVc9M9uwcsPf7)
