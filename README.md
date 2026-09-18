@@ -8,7 +8,7 @@
          width="35%"
          class="ares-logo"
          alt="Warren County ARES Logo">
-  </a>
+</a>
 <a href="assets/wcky_roadmap_base.png"
      target="_blank"
      title="Click to view full-size logo">
@@ -16,6 +16,7 @@
        class="image"
        width="35%"
        alt="Warren County Road Map"/>
+</a>
 </p>
 
 # NEWS
