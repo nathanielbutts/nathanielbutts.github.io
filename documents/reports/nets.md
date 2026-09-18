@@ -5,16 +5,26 @@
 ### Basic Info
   * Freq = 147.615
   * Start time = 1930
-  * End time = 
-  * Total check-ins = 
+  * End time = 1950
+  * Total check-ins = 8
 
 ### Check-ins
+
+  * KN4BIY io
+  * KN4WLM 
+  * K4WKU
+  * K9CHS
+  * KR4MKD
+  * KR4JKU
+  * KI4HEJ
 
 ### Announcements
   * We will not participate in 10/3 SET 
     * The purpose of the SET is to practice what we've learned, and so far we've had no official training
+  * FCC and FEMA will be performing a test on the Emergency Alert System nationwide Tuesday, November 17th, at 1:20pm CST.  This will effect radio and TV programming, but not phone
   * New section created on homepage, [https://nathanielbutts.github.io](https://nathanielbutts.github.io)
   * Calendar posted to website, find link on homepage
+  * Next week we will make further changes to this net by incorporating exercises, challenges, or trainings into the format.  Next week (and future nets) please make sure to bring something to write with (paper & pencil, computer, etc) and you will be given instructions then.
 
 ## Net 15: 2026.09.10@1930
 
