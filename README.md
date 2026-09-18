@@ -13,7 +13,7 @@
 
 # NEWS
 
-{% capture section %}
+{% capture news %}
 {% include news.md %}
 {% endcapture %}
 
