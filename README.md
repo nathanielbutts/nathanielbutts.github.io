@@ -48,7 +48,8 @@ ARES is the amateur radio emergency service which was created by the ARRL in 193
 
 ## WCKY ARES Operations Documents
 
-{% include wcky_ares_documents.md %}
+{% capture wcky_ares_documents %}{% include wcky_ares_documents.md %}{% endcapture %}
+{{ wcky_ares_documents | markdownify }}
 
 ## Important Links
 
