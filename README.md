@@ -11,7 +11,7 @@
 </a>
 <a href="assets/wcky_roadmap_base.png"
      target="_blank"
-     title="Click to view full-size logo">
+     title="Click to view full-size map">
   <img src="assets/wcky_roadmap_base.png"
        class="image"
        width="35%"
@@ -21,11 +21,7 @@
 
 # NEWS
 
-{% capture news %}
 {% include news.md %}
-{% endcapture %}
-
-{{ news | markdownify }}
 
 ## Information
 
@@ -44,15 +40,11 @@ ARES is the amateur radio emergency service which was created by the ARRL in 193
  - [Reports](#reports)
  - [Training](#training)
  - [Participation](#participation)
- - [Proficiency/Skill](#proficiency/skill)
+ - [Proficiency/Skill](#proficiencyskill)
 
 ## Contacts
 
-{% capture contacts %}
 {% include contacts.md %}
-{% endcapture %}
-
-{{ contacts | markdownify }}
 
 ## WCKY ARES Operations Documents
 
@@ -64,11 +56,7 @@ ARES is the amateur radio emergency service which was created by the ARRL in 193
 
 ## Other Links
 
-{% capture other_links %}
 {% include other_links.md %}
-{% endcapture %}
-
-{{ other_links | markdownify }}
 
 ## Registration
 
@@ -76,19 +64,11 @@ To participate in ARES, you must be hold a current, valid, amateur radio license
 
 ## Members
 
-{% capture members %}
 {% include members.md %}
-{% endcapture %}
-
-{{ members | markdownify }}
 
 ## Items of Interest
 
-{% capture interest %}
 {% include interest.md %}
-{% endcapture %}
-
-{{ interest | markdownify }}
 
 ## Reports
 
