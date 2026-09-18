@@ -2,13 +2,16 @@
 
 <p align="center">
 <a href="assets/wcky_ARES_logo.png"
-   target="_blank"
-   title="Click to view full-size map"
-  <img src="assets/wcky_ARES_logo.png"
-       width="35%"
-       class="ares-logo"
-       alt="Warren County ARES Logo"/>
-</a>
+     target="_blank"
+     title="Click to view full-size logo">
+    <img src="assets/wcky_ARES_logo.png"
+         width="35%"
+         class="ares-logo"
+         alt="Warren County ARES Logo">
+  </a>
+<a href="assets/wcky_roadmap_base.png"
+     target="_blank"
+     title="Click to view full-size logo">
   <img src="assets/wcky_roadmap_base.png"
        class="image"
        width="35%"
