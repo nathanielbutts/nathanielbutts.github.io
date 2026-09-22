@@ -4,3 +4,4 @@
  - [YouTube - Messages and Forms Handling](https://www.youtube.com/watch?v=27eq0ULBFiw)
  - 🆕[YouTube - How to be a Net Control Operator](https://www.youtube.com/watch?v=YZbLblIwotE)
  - 🆕[YouTube - Operating Ham Radio During Public Event](https://youtu.be/HHxNOMGSwAI?si=ie3VVc9M9uwcsPf7)
+ - 🆕[YouTube - ARRL NTS and Radiogram Training](https://youtu.be/PkY5-FziUTc?si=PzSX051y9u5N-ZGg)
