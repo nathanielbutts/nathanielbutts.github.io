@@ -24,7 +24,7 @@
 | IS-200                   |  R  | INTERM |     X     |       |       |        |    X   |
 | IS-800                   |  R  | INTERM |     X     |       |       |        |    X   |
 | IS-802                   |  E  | INTERM |           |       |       |        |        |
-| EMCOMM INTERM            |  R  | INTERM |           |       |       |        |        |
+| EMCOMM INTERM            |  R  | INTERM |     X     |       |       |        |        |
 | SKYWARN BASIC            |  E  | INTERM |     X     |       |       |    X   |    X   |
 | NET PARTICIPATION        |  R  | INTERM |     X     |   X   |   X   |    X   |    X   |
 | PUBLIC SERVICE EVENT     |  E  | INTERM |           |       |       |        |        |
@@ -63,13 +63,13 @@
 | SET OR EXERCISE PART     |  R  |  ADVAN |           |       |       |        |    X   |
 | SERVE AS NCS             |  R  |  ADVAN |     X     |   X   |       |        |        |
 | PRESENT TRAINING         |  R  |  ADVAN |     X     |       |       |        |        |
-| HOLD LEADERSHIP          |  R  |  ADVAN |     X     |       |       |        |        |
-| GENERAL LICENSE          |  O  |  ADVAN |           |       |       |        |        |
+| HOLD LEADERSHIP          |  R  |  ADVAN |     X     |       |       |        |    X   |
+| GENERAL LICENSE          |  O  |  ADVAN |     X     |   X   |   X   |        |    X   |
 | PR-101                   |  R  |  ADVAN |           |       |       |        |        |
 | EC-001                   |  O  |  ADVAN |           |       |       |        |        |
 | PROF IN ICS FORMS        |  R  |  ADVAN |           |       |       |        |        |
 | OP VHF DIGITAL P2P       |  R  |  ADVAN |           |       |       |        |        |
 | OP HF DIGI MESSAGE       |  R  |  ADVAN |     X     |       |       |        |        |
-| PROGRAM TONE HT          |  R  |  ADVAN |     X     |       |       |        |        |
-| PROGRAM FREQ/OFF         |  R  |  ADVAN |     X     |       |       |        |        |
-| CROSSBAND REPEAT MOBILE  |  O  |  ADVAN |           |       |       |        |        |
+| PROGRAM TONE HT          |  R  |  ADVAN |     X     |   X   |   X   |    X   |    X   |
+| PROGRAM FREQ/OFF         |  R  |  ADVAN |     X     |   X   |   X   |    X   |    X   |
+| CROSSBAND REPEAT MOBILE  |  O  |  ADVAN |           |   X   |       |        |        |

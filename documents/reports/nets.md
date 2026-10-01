@@ -1,5 +1,55 @@
 # WCKY ARES - Net Notes
 
+## Net 18: 2026.10.01(JD271)@1930
+
+### Basic Info
+  * Freq = 147.615
+  * Start time = 1930
+  * End time = 
+  * Total check-ins = 
+
+### Check-ins
+
+### Announcements
+  * Meeting with Bill Rector and Kevin Bailey 10/5 to discuss served agency relations
+    * Bill is WC Fire Chief and Director of Public Safety for WC
+    * Kevin is Plano Fire Chief and Deputy Director of Public Safety for WC
+  * I am working with Heart Preparedness Partnership of which District 4 is the HEART Coalition to setup AX25 packet gateways in the area
+    * This is used to send digital information like Winlink Emails over RF in times of communications failure
+    * Also used for P2P digital information transfer
+    * Highly recommend you start learning this technology; we can hold a workshop on this in the future
+  * Saturday 10/3 members will participate in a short exercise as our participation for SET
+    * We will be focusing on Radiograms
+    * Please have necessary items ready
+    * More information to be sent Friday
+
+### Training
+  * Review Operations Plan, Section 6.0.10
+
+## Net 17: 2026.09.24(JD264)@1930
+
+### Basic Info
+  * Freq = 147.615
+  * Start time = 1930
+  * End time = 
+  * Total check-ins = 
+
+### Check-ins
+
+Exercise: EC created radiogram and read it to all members.  Members recorded the radiogram and read back to EC.
+
+## Net 17: 2026.09.24(JD264)@1930
+
+### Basic Info
+  * Freq = 147.615
+  * Start time = 1930
+  * End time = 1950
+  * Total check-ins = 8
+
+### Check-ins
+
+Exercise: EC created radiogram and read it to all members.  Members recorded the radiogram and read back to EC.
+
 ## Net 16: 2026.09.17(257)@1930
 
 ### Basic Info
