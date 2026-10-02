@@ -5,10 +5,18 @@
 ### Basic Info
   * Freq = 147.615
   * Start time = 1930
-  * End time = 
-  * Total check-ins = 
+  * End time = 1953
+  * Total check-ins = 9
 
 ### Check-ins
+  * KN4BIY IO
+  * KD9GRD
+  * K9CHS
+  * KY4JPS
+  * K4WKU
+  * KQ4OQL IO
+  * KR4JKU
+  * KI4HEJ NT
 
 ### Announcements
   * Meeting with Bill Rector and Kevin Bailey 10/5 to discuss served agency relations
@@ -31,24 +39,21 @@
 ### Basic Info
   * Freq = 147.615
   * Start time = 1930
-  * End time = 
-  * Total check-ins = 
-
-### Check-ins
-
-Exercise: EC created radiogram and read it to all members.  Members recorded the radiogram and read back to EC.
-
-## Net 17: 2026.09.24(JD264)@1930
-
-### Basic Info
-  * Freq = 147.615
-  * Start time = 1930
   * End time = 1950
   * Total check-ins = 8
 
 ### Check-ins
 
-Exercise: EC created radiogram and read it to all members.  Members recorded the radiogram and read back to EC.
+  * K4WKU
+  * KY4JPS
+  * KN4WLM
+  * KD9GRD
+  * K9CHS
+  * KR4JKU
+  * KN4BIY
+
+### Exercise: 
+  * EC created radiogram and read it to all members.  Members recorded the radiogram and read back to EC.
 
 ## Net 16: 2026.09.17(257)@1930
 
