@@ -5,3 +5,4 @@
 |K4WKU   |Steve Junas    |Extra     |EM67sa|
 |K9CHS   |Gary Streib    |General   |EM66tu|
 |KD9GRD  |Mike Sangermand|Technician|EM66rw|
+|KO4PVI  |Joseph Stewart |Extra     |EM67td|
