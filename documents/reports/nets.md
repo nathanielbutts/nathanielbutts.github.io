@@ -1,5 +1,24 @@
 # WCKY ARES - Net Notes
 
+## Net 19: 2026.10.08(JD278)@1930
+
+### Basic Info
+  * Freq = 147.615
+  * Start time = 1930
+  * End time = 
+  * Total check-ins = 
+
+### Check-ins
+  * 
+
+### Announcements
+  * Read example Radiogram
+  * New member KO4PVI
+  * Members training this Saturday, 10:00am
+    * Discussing activation procedures OP Sections 6.0.10, 6.0.11, 6.0.14, 6.0.17
+  * Club meeting for everyone 11/14 at Downtown Public Library
+
+
 ## Net 18: 2026.10.01(JD271)@1930
 
 ### Basic Info
