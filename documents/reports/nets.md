@@ -5,11 +5,16 @@
 ### Basic Info
   * Freq = 147.615
   * Start time = 1930
-  * End time = 
-  * Total check-ins = 
+  * End time = 1945
+  * Total check-ins = 7
 
 ### Check-ins
-  * 
+  * KD9GRD
+  * KY4JPS
+  * KR4JKU
+  * K4WKU
+  * KR4MKD JOHN
+  * KI4HEJ
 
 ### Announcements
   * Read example Radiogram
