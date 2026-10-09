@@ -13,6 +13,7 @@
 
 ### Announcements
   * Read example Radiogram
+    * Will post on the website so you can check
   * New member KO4PVI
   * Members training this Saturday, 10:00am
     * Discussing activation procedures OP Sections 6.0.10, 6.0.11, 6.0.14, 6.0.17
