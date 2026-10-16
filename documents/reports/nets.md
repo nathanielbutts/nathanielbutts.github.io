@@ -1,5 +1,27 @@
 # WCKY ARES - Net Notes
 
+## Net 20: 2026.10.015(JD285)@1930
+
+### Basic Info
+  * Freq = 147.615
+  * Start time = 1930
+  * End time = 1941
+  * Total check-ins = 7
+
+### Check-ins
+  * KD9GRD NT
+  * K4WKU
+  * KI4HEJ NT
+  * WJ4T NT
+  * K9CHS
+  * KY4JPS
+
+### Announcements
+  * Club meeting for everyone 11/14 at Downtown Public Library
+    * Demonstration of packet radio
+    * Other info tbd
+
+
 ## Net 19: 2026.10.08(JD278)@1930
 
 ### Basic Info
